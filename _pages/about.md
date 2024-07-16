@@ -30,7 +30,7 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 - *2022.09 - 2025.06 (expected)*, School of Psychology, Jiangxi Normal University. 
 - *2018.09 - 2022.06*, School of Psychology, Jiangxi Normal University.
 
-# 📑 Research Experiences
+# 📑 Research
 - *2019.09 - Now*, School of Psychology, Jiangxi Normal University. 
 
 
@@ -90,7 +90,7 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 - *2019/2021/2022* - First Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
 - *2020* - Second Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
 
-# 💻 Professional Experiences
+# 💻 Other Experiences
 
 ## 1️⃣ Abstract Reviewer
 
@@ -102,7 +102,7 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 - *2023-2025* - Student member of the American Psychological Association
 - *2023-2024* - Student member of the Chinese Psychological Society
 
-# 😊 Other Work Experiences
+## 3️⃣ Other Work Experiences
 
 - *9/2021-12/2021* - Psychology Teacher Intern, Nanchang No.3 Middle School, Nanchang, Jiangxi
 - *3/2021* - Psychology Teacher Practicum, Maqiu Senior High School, Nanchang, Jiangxi
