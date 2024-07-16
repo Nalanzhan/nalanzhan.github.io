@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Nalan Zhan"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "A Master student at School of Psychology, Jiangxi Normal University. "
 repository               : "Nalanzhan/nalanzhan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,15 +23,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Nalan Zhan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Jiangxi Normal University"
+  location         : "Nanchang, Jiangxi, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=nGFEp8wAAAAJ&hl=en"
+  email            : "nalanzhan@foxmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Nalan-Zhan"
   uri              :
-  bitbucket        :
+  bitbucket        :  
   codepen          :
   dribbble         :
   flickr           :
