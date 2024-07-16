@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year master's student in the School of Psychology at Jiangxi Normal University. My research supervisor is [Dr. Fulei Geng](https://www.researchgate.net/profile/Fulei-Geng).
+I am currently a second-year master’s student in the School of Psychology at Jiangxi Normal University, having commenced my studies in September 2022 and anticipating graduation in June 2025. Prior to my master’s program, I completed my Bachelor of Science degree in Psychology at the same institution, from September 2018 to June 2022. 
 
-My current research focuses on trauma- and stressor-related disorders, particularly: 1) the psychosocial and pathological mechanisms of PTSD and its subtypes; 2) protective and risk factors for psychological distress, especially childhood experiences and intergenerational transmission.
+My academic journey has been profoundly shaped by Dr. [Fulei Geng](https://www.researchgate.net/profile/Fulei-Geng), who has been my steadfast research supervisor since September 2019, when I first joined his laboratory, and continues to guide me to this day. His mentorship has been pivotal throughout my academic journey, including the guidance he provided for both my undergraduate thesis and my current master’s dissertation.
+
+My current research mainly focuses on trauma- and stressor-related disorders, particularly: 1) the psychosocial and pathological mechanisms of PTSD and its subtypes; 2) protective and risk factors for psychological distress, especially childhood experiences and intergenerational transmission.
 
 In my future doctoral research, I plan to acquire skills in physiology, behavior, and imaging. Using techniques from laboratory experiments to neuroimaging, I hope to explore the etiology and pathology of trauma- and stressor-related disorders comprehensively.
 
@@ -83,10 +85,10 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 1. **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F.\* (submitted). A symptom level perspective on irritability, PTSD, and depression in children and adults.
 
 2. Zhang, K., **Zhan, N.**, Xue, X., Man, J., Li, F., & Geng, F.\* (submitted). Associations among fear of cancer recurrence, posttraumatic stress symptoms, depression and irritability in cancer patients: A network analysis.
-3. 
-4. Geng, F., Cao, Y., **Zhan, N.**, Xie, D., Wang, J., & Zhang, L.\* (submitted). Dispositional optimism boosts family adaptation to the COVID-19 pandemic: an intergenerational investigation of the associations between dispositional optimism, COVID-19 related worries, and depression/anxiety symptoms.
+   
+3. Geng, F., Cao, Y., **Zhan, N.**, Xie, D., Wang, J., & Zhang, L.\* (submitted). Dispositional optimism boosts family adaptation to the COVID-19 pandemic: an intergenerational investigation of the associations between dispositional optimism, COVID-19 related worries, and depression/anxiety symptoms.
 
-5. Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
+4. Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
 
 ## 4️⃣ Conference Presentations
 
