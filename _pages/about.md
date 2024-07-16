@@ -21,7 +21,7 @@ I am a second-year master's student in the School of Psychology at Jiangxi Norma
 
 My current research focuses on trauma- and stressor-related disorders, particularly: 1) the psychosocial and pathological mechanisms of PTSD and its subtypes; 2) protective and risk factors for psychological distress, especially childhood experiences and intergenerational transmission.
 
-I aim to understand the mechanisms of trauma and stress through the bio-psycho-social-spiritual (BPSS) model and explore effective interventions. In my future doctoral research, I plan to acquire skills in physiology, behavior, and imaging. Using techniques from laboratory experiments to neuroimaging, I hope to explore the etiology and pathology of related disorders comprehensively.
+In my future doctoral research, I plan to acquire skills in physiology, behavior, and imaging. Using techniques from laboratory experiments to neuroimaging, I hope to explore the etiology and pathology of trauma- and stressor-related disorders comprehensively.
 
 I plan to apply for a doctorate program this year, focusing on clinical, developmental, or cognitive neuroscience psychology.
 
@@ -30,15 +30,15 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 - *2022.09 - 2025.06 (expected)*, School of Psychology, Jiangxi Normal University. 
 - *2018.09 - 2022.06*, School of Psychology, Jiangxi Normal University.
 
-# 📖 Research Experiences
-- *2022.09 - 2025.06 (expected)*, School of Psychology, Jiangxi Normal University. 
-- *2018.09 - 2022.06*, School of Psychology, Jiangxi Normal University.
+# 📑 Research Experiences
+- *2019.09 - Now*, School of Psychology, Jiangxi Normal University. 
+
 
 
 # 📝 Publications 
 *Note. \* indicates the correspondent author*
 
-## First Author
+## 1️⃣ First Author
 
 1. **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F.\* (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory-9 in Chinese adolescents and adults. *Psychological Assessment*. [[doi]](https://doi.org/10.1037/pas0001309)
 
@@ -48,7 +48,7 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 
 4. **Zhan, N.**, Xie, D., Zou, J., Wang, J., & Geng, F.\* (2021). The validity and reliability of benevolent childhood experiences scale in Chinese community adults. *European Journal of Psychotraumatology*, *12*(1), 1945747. [[doi]](https://doi.org/10.1080/20008198.2021.1945747)
 
-## Co-Author
+## 2️⃣ Co-Author
 
 1. Yuan, D., Li, Q., **Zhan, N.**, Zhang, L., Wang, J., Liu, M., & Geng, F.\* (2023). Longitudinal associations of menstrual characteristics with mental health problems among Chinese girls. *European Child & Adolescent Psychiatry*. [[doi]](https://doi.org/10.1007/s00787-023-02345-y)
 
@@ -68,7 +68,7 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 
 9. Geng, F.\*, Zou, J., Liang, Y., **Zhan, N.**, Li, S., & Wang, J. (2021). Associations of positive and adverse childhood experiences and adulthood insomnia in a community sample of Chinese adults. *Sleep Medicine*, *80*, 46-51. [[doi]](https://doi.org/10.1016/j.sleep.2021.01.022)
 
-## Working Papers
+## 3️⃣ Working Papers
 
 1. **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F.\* (submitted). A symptom level perspective on irritability, PTSD, and depression in children and adults.
 
@@ -78,7 +78,7 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 
 5. Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
 
-## Conference Presentations
+## 4️⃣ Conference Presentations
 
 1. **Zhan, N.**, & Geng, F.\* (2024, September). *Longitudinal Relationships Between Posttraumatic Stress Disorder, Irritability, Depression in Trauma-Exposed Children and Adolescents: A Cross-Lagged Panel Network Analysis*. Poster accepted for presentation at the 40th annual meeting of the International Society for Traumatic Stress Studies conference in Boston, MA.
 
@@ -92,11 +92,11 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 
 # 💻 Professional Experiences
 
-## Abstract Reviewer
+## 1️⃣ Abstract Reviewer
 
 - *3/2024* - The 40th Annual Meeting of the International Society for Traumatic Stress Studies conference
 
-## Memberships
+## 2️⃣ Memberships
 
 - *2023-2026* - Student member of the International Society of Traumatic Stress Studies
 - *2023-2025* - Student member of the American Psychological Association
