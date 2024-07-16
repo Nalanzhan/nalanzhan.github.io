@@ -25,13 +25,23 @@ In my future doctoral research, I plan to acquire skills in physiology, behavior
 
 I plan to apply for a doctorate program this year, focusing on clinical, developmental, or cognitive neuroscience psychology.
 
+# ⭐ Research Interests
+-   Investigating the etiopathological mechanisms and developmental trajectories of trauma- and stress-related disorders and anxiety, utilizing behavioral, physiological, and neuroimaging techniques.
+-   Examining the intersection of physiological factors (genetics and cortisol), sociopsychological aspects (social relationships, stress and trauma events, childhood experiences), behavioral paradigms, and imaging techniques (fMRI) to understand the pathogenesis of these disorders.
+-   Conducting research across diverse groups, including the general population, disadvantaged populations, and patients with disorders, to gain a comprehensive understanding of the etiology and progression of trauma- and stress-related, anxiety-related disorders.
 
-# 📖 Educations
-- *2022.09 - 2025.06 (expected)*, School of Psychology, Jiangxi Normal University. 
-- *2018.09 - 2022.06*, School of Psychology, Jiangxi Normal University.
+# 📑 Research Projects
 
-# 📑 Research
-- *2019.09 - Now*, School of Psychology, Jiangxi Normal University. 
+## 1️⃣ Pathological Mechanisms of PTSD
+
+
+## 2️⃣ Trajectories and Psychosocial Mechanisms of PTSD and Its Subtypes
+
+
+## 3️⃣ Impact of Childhood Experiences on Psychological Outcomes
+
+
+## 4️⃣ Intergenerational Transmission of Psychological Distress and Lifestyle Factors
 
 
 
