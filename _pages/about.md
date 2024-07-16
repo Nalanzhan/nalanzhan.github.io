@@ -26,13 +26,19 @@ I aim to understand the mechanisms of trauma and stress through the bio-psycho-s
 I plan to apply for a doctorate program this year, focusing on clinical, developmental, or cognitive neuroscience psychology.
 
 
+# 📖 Educations
+- *2022.09 - 2025.06 (expected)*, School of Psychology, Jiangxi Normal University. 
+- *2018.09 - 2022.06*, School of Psychology, Jiangxi Normal University.
+
+# 📖 Research Experiences
+- *2022.09 - 2025.06 (expected)*, School of Psychology, Jiangxi Normal University. 
+- *2018.09 - 2022.06*, School of Psychology, Jiangxi Normal University.
+
+
 # 📝 Publications 
-
-## Publications
-
 *Note. \* indicates the correspondent author*
 
-### First Author
+## First Author
 
 1. **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F.\* (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory-9 in Chinese adolescents and adults. *Psychological Assessment*. [[doi]](https://doi.org/10.1037/pas0001309)
 
@@ -42,7 +48,7 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 
 4. **Zhan, N.**, Xie, D., Zou, J., Wang, J., & Geng, F.\* (2021). The validity and reliability of benevolent childhood experiences scale in Chinese community adults. *European Journal of Psychotraumatology*, *12*(1), 1945747. [[doi]](https://doi.org/10.1080/20008198.2021.1945747)
 
-### Co-Author
+## Co-Author
 
 1. Yuan, D., Li, Q., **Zhan, N.**, Zhang, L., Wang, J., Liu, M., & Geng, F.\* (2023). Longitudinal associations of menstrual characteristics with mental health problems among Chinese girls. *European Child & Adolescent Psychiatry*. [[doi]](https://doi.org/10.1007/s00787-023-02345-y)
 
@@ -62,7 +68,7 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 
 9. Geng, F.\*, Zou, J., Liang, Y., **Zhan, N.**, Li, S., & Wang, J. (2021). Associations of positive and adverse childhood experiences and adulthood insomnia in a community sample of Chinese adults. *Sleep Medicine*, *80*, 46-51. [[doi]](https://doi.org/10.1016/j.sleep.2021.01.022)
 
-### Working Papers
+## Working Papers
 
 1. **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F.\* (submitted). A symptom level perspective on irritability, PTSD, and depression in children and adults.
 
@@ -72,21 +78,33 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 
 5. Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
 
-### Conference Presentations
+## Conference Presentations
 
 1. **Zhan, N.**, & Geng, F.\* (2024, September). *Longitudinal Relationships Between Posttraumatic Stress Disorder, Irritability, Depression in Trauma-Exposed Children and Adolescents: A Cross-Lagged Panel Network Analysis*. Poster accepted for presentation at the 40th annual meeting of the International Society for Traumatic Stress Studies conference in Boston, MA.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023/2024*, First Prize Scholarship of Outstanding Graduates, Jiangxi Province Government
+- *2023*, National Scholarship, Ministry of Education of China
+- *2022*, Outstanding Undergraduate Thesis, Jiangxi Normal University
+- *2022*, Outstanding Undergraduates, Jiangxi Normal University
+- *2019/2021/2022*, First Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
+- *2020*, Second Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 😊Professional Experiences
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+## Abstract Reviewer
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *3/2024* - The 40th Annual Meeting of the International Society for Traumatic Stress Studies conference
+
+## Memberships
+
+- *2023-2026* - Student member of the International Society of Traumatic Stress Studies
+- *2023-2025* - Student member of the American Psychological Association
+- *2023-2024* - Student member of the Chinese Psychological Society
+
+# 😊Other Work Experiences
+
+- *9/2021-12/2021* - Psychology Teacher Intern, Nanchang No.3 Middle School, Nanchang, Jiangxi
+- *3/2021* - Psychology Teacher Practicum, Maqiu Senior High School, Nanchang, Jiangxi
+- *9/2018-6/2021* - New media operation center for college students, School of Psychology, Jiangxi Normal University
+- *2019/2020* - Summer Social Practice, Yangguang Middle School, Nanchang, Jiangxi
