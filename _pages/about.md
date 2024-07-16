@@ -83,14 +83,14 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 1. **Zhan, N.**, & Geng, F.\* (2024, September). *Longitudinal Relationships Between Posttraumatic Stress Disorder, Irritability, Depression in Trauma-Exposed Children and Adolescents: A Cross-Lagged Panel Network Analysis*. Poster accepted for presentation at the 40th annual meeting of the International Society for Traumatic Stress Studies conference in Boston, MA.
 
 # 🎖 Honors and Awards
-- *2023/2024*, First Prize Scholarship of Outstanding Graduates, Jiangxi Province Government
-- *2023*, National Scholarship, Ministry of Education of China
-- *2022*, Outstanding Undergraduate Thesis, Jiangxi Normal University
-- *2022*, Outstanding Undergraduates, Jiangxi Normal University
-- *2019/2021/2022*, First Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
-- *2020*, Second Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
+- *2023/2024* - First Prize Scholarship of Outstanding Graduates, Jiangxi Province Government
+- *2023* - National Scholarship, Ministry of Education of China
+- *2022* - Outstanding Undergraduate Thesis, Jiangxi Normal University
+- *2022* - Outstanding Undergraduates, Jiangxi Normal University
+- *2019/2021/2022* - First Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
+- *2020* - Second Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
 
-# 😊Professional Experiences
+# 💻 Professional Experiences
 
 ## Abstract Reviewer
 
@@ -102,7 +102,7 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 - *2023-2025* - Student member of the American Psychological Association
 - *2023-2024* - Student member of the Chinese Psychological Society
 
-# 😊Other Work Experiences
+# 😊 Other Work Experiences
 
 - *9/2021-12/2021* - Psychology Teacher Intern, Nanchang No.3 Middle School, Nanchang, Jiangxi
 - *3/2021* - Psychology Teacher Practicum, Maqiu Senior High School, Nanchang, Jiangxi
