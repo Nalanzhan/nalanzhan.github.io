@@ -94,7 +94,7 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 
 1. **Zhan, N.**, & Geng, F.\* (2024, September). *Longitudinal Relationships Between Posttraumatic Stress Disorder, Irritability, Depression in Trauma-Exposed Children and Adolescents: A Cross-Lagged Panel Network Analysis*. Poster accepted for presentation at the 40th annual meeting of the International Society for Traumatic Stress Studies conference in Boston, MA.
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2023/2024* - First Prize Scholarship of Outstanding Graduates, Jiangxi Province Government
 - *2023* - National Scholarship, Ministry of Education of China
 - *2022* - Outstanding Undergraduate Thesis, Jiangxi Normal University
