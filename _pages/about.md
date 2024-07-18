@@ -51,7 +51,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ongoing</div><img src='images/project-zhan2024factor.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 PTCI</div><img src='images/project-zhan2024factor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Psychometric Properties of the Posttraumatic Cognitions Inventory-9 in China** \\
