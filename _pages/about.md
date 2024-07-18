@@ -55,7 +55,7 @@ Associations between Default Mode Network Functional Connectivity and Conditioni
 <div class='paper-box-text' markdown="1">
 
 **Associations between Default Mode Network Functional Connectivity and Conditioning Fear Extinction in PTSD: A Resting-state Functional MRI Study** \\
-**Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
+**Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)\\
 **Collaborators**: Kailiang Zhang and Dawei Wang (Qilu Hospital, Shandong University)
 -	Designed the study, developed experimental protocols using E-prime, and collected behavioral (self-report), physiological (EDA), and imaging (sMRI and rs-fMRI) data using a laptop, BIOPAC MP160 System, and MRI scanner.
 -	Planned to conduct data preprocessing and analysis: preprocessing EDA data with Acqknowledge and imaging data with MATLAB; analyzing behavioral, physiological, and imaging data using R, SPSS, and Excel together; and prepared final results for reporting and manuscript writing.
