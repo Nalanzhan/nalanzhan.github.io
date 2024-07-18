@@ -55,7 +55,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 <div class='paper-box-text' markdown="1">
 
 **Psychometric Properties of the Posttraumatic Cognitions Inventory-9 in China** \\
-**Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)\\
+**Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
 -	Conducted confirmatory factor analysis to examine the psychometrics of the PTCI-9 in a large sample of Chinese adolescents and adults.
 -	Tested measurement invariances of PTCI-9 across age (adolescent vs adult), sex (male vs female), trauma exposure (direct vs indirect), and types of traumas (interpersonal va non-interpersonal).
 -	Examined relationships between posttraumatic cognitons, PTSD symptoms, depression, anxiety, and life satisfaction to support the convergent and discriminative validity of the PTCI-9.
