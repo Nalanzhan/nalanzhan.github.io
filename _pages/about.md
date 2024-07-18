@@ -23,18 +23,31 @@ My academic journey has been profoundly shaped by Dr. [Fulei Geng](https://www.r
 
 My current research mainly focuses on trauma- and stressor-related disorders, particularly: 1) the psychosocial and pathological mechanisms of PTSD and its subtypes; 2) protective and risk factors for psychological distress, especially childhood experiences and intergenerational transmission.
 
+I am currently seeking a doctoral position in the field of psychology, with a particular interest in: 1) physiological and psychological responses of general population after trauma and stress; 2) psychosocial and pathological mechanisms of trauma-and stress-related disorders, and anxiety; 3) recovery approaches and processes trauma- and stress-related disorders and anxiety.
+
 In my future doctoral research, I plan to acquire skills in physiology, behavior, and imaging. Using techniques from laboratory experiments to neuroimaging, I hope to explore the etiology and pathology of trauma- and stressor-related disorders comprehensively.
 
-I plan to apply for a doctorate program this year, focusing on clinical, developmental, or cognitive neuroscience psychology.
 
 # ⭐ Research Interests
--   Investigating the etiopathological mechanisms and developmental trajectories of trauma- and stress-related disorders and anxiety, utilizing behavioral, physiological, and neuroimaging techniques.
--   Examining the intersection of physiological factors (genetics and cortisol), sociopsychological aspects (social relationships, stress and trauma events, childhood experiences), behavioral paradigms, and imaging techniques (fMRI) to understand the pathogenesis of these disorders.
--   Conducting research across diverse groups, including the general population, disadvantaged populations, and patients with disorders, to gain a comprehensive understanding of the etiology and progression of trauma- and stress-related, anxiety-related disorders.
+trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; protective and risk factors; mental health; recovery; uncertainty; decision making; memory
+
 
 # 📑 Research Projects
 
 ## 1️⃣ Pathological Mechanisms of PTSD
+*Description:* This project aim to investigate the pathological mechanisms of the onset, development, and progression of posttraumatic stress disorder (PTSD), involving susceptibility, cognitive biases, fear memory, and stress hormones.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ongoing</div><img src='images/project-zhan2024ptsd.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Associations between Default Mode Network Functional Connectivity and Conditioning Fear Extinction in PTSD: A Resting-state Functional MRI Study \\
+**Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
+**Collaborators**: Kailiang Zhang and Dawei Wang (Qilu Hospital, Shandong University)
+-	Designed the study, developed experimental protocols using E-prime, and collected behavioral (self-report), physiological (EDA), and imaging (sMRI and rs-fMRI) data using a laptop, BIOPAC MP160 System, and MRI scanner.
+-	Planned to conduct data preprocessing and analysis: preprocessing EDA data with Acqknowledge and imaging data with MATLAB; analyzing behavioral, physiological, and imaging data using R, SPSS, and Excel together; and prepared final results for reporting and manuscript writing.
+-	Current progress: Preparing submissions to and addressing responses from the IRB (e.g., full applications, continuing reviews, amendments).
+</div>
+</div>
 
 
 ## 2️⃣ Trajectories and Psychosocial Mechanisms of PTSD and Its Subtypes
@@ -44,6 +57,9 @@ I plan to apply for a doctorate program this year, focusing on clinical, develop
 
 
 ## 4️⃣ Intergenerational Transmission of Psychological Distress and Lifestyle Factors
+
+
+## 4️⃣ Studies related to clinical mental health in a wider perspective
 
 
 
