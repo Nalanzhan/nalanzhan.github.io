@@ -50,6 +50,20 @@ Associations between Default Mode Network Functional Connectivity and Conditioni
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ongoing</div><img src='images/project-zhan2024ptsd.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Associations between Default Mode Network Functional Connectivity and Conditioning Fear Extinction in PTSD: A Resting-state Functional MRI Study \\
+**Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
+**Collaborators**: Kailiang Zhang and Dawei Wang (Qilu Hospital, Shandong University)
+-	Designed the study, developed experimental protocols using E-prime, and collected behavioral (self-report), physiological (EDA), and imaging (sMRI and rs-fMRI) data using a laptop, BIOPAC MP160 System, and MRI scanner.
+-	Planned to conduct data preprocessing and analysis: preprocessing EDA data with Acqknowledge and imaging data with MATLAB; analyzing behavioral, physiological, and imaging data using R, SPSS, and Excel together; and prepared final results for reporting and manuscript writing.
+-	Current progress: Preparing submissions to and addressing responses from the IRB (e.g., full applications, continuing reviews, amendments).
+</div>
+</div>
+
+
 ## 2️⃣ Trajectories and Psychosocial Mechanisms of PTSD and Its Subtypes
 
 
