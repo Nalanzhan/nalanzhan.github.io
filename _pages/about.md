@@ -53,13 +53,13 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 PTCI</div><img src='images/project-zhan2024factor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Psychometric Properties of the Posttraumatic Cognitions Inventory-9 in China** \\
+**[Psychometric Properties of the Posttraumatic Cognitions Inventory-9 in China](https://pubmed.ncbi.nlm.nih.gov/38330308/)** \\
 **Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
 -	Conducted confirmatory factor analysis to examine the psychometrics of the PTCI-9 in a large sample of Chinese adolescents and adults.
 -	Tested measurement invariances of PTCI-9 across age (adolescent vs adult), sex (male vs female), trauma exposure (direct vs indirect), and types of traumas (interpersonal va non-interpersonal).
 -	Examined relationships between posttraumatic cognitons, PTSD symptoms, depression, anxiety, and life satisfaction to support the convergent and discriminative validity of the PTCI-9.
 </div>
-</div>
+
 
 - **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F.\* (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory-9 in Chinese adolescents and adults. *Psychological Assessment*. [[doi]](https://doi.org/10.1037/pas0001309)
 
