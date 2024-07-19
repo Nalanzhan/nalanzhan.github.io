@@ -87,7 +87,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Irritability</div><img src='images/project-zhan2023irritability.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Clinical Correlates of Irritability and Aggression in PTSD** \\
+**[Clinical Correlates of Irritability and Aggression in PTSD](https://pubmed.ncbi.nlm.nih.gov/37104771/)** \\
 **Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
 -	Used separate and well-validated scales to measure irritability, anger, hostility, and aggression in a community sample of adults with probable PTSD.
 -	Conducted correlation analysis to examine (1) relationships between PTSD symptoms, irritability, anger, hostility, and aggression, and (2) relationships between irritability, other clinical symptoms and suicidal behaviors.
@@ -98,15 +98,49 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 - **Zhan, N.**, Zhang, L., Gong, M., & Geng, F.\* (2023). Clinical correlates of irritability, anger, hostility, and aggression in posttraumatic stress disorder. *Psychological Trauma: Theory, Research, Practice, and Policy*, Advance online publication. [[doi]](https://doi.org/dx.10.1037/tra0001498)
 - Geng, F.\*, Liang, Y., **Zhan, N.**, & Wang, J. (2022). Prevalence, clinical features, and psychological characteristics of dissociative subtype of posttraumatic stress disorder in Chinese prisoners. *Journal of Trauma & Dissociation*, *24*(1), 63–78. [[doi]](https://doi.org/10.1080/15299732.2022.2079797)
 
+---
 
+## 3️⃣ Intergenerational Transmission of Psychological Distress and Lifestyle Factors
+*Description:* This project aim to investigate how parents' health, behavior, and emotions can influence the health, behavior, and emotions of their children. Potential factors involved may include worry, physical exercise, screen time, emotion regulation, and so on.
 
-## 3️⃣ Impact of Childhood Experiences on Psychological Outcomes
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 INSOMNIA</div><img src='images/project-zhan2023transmission.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**[The Transmission of Insomnia from Parents to Children in COVID-19](https://pubmed.ncbi.nlm.nih.gov/35362217/)** \\
+**Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
+-	Examined how COVID-related worries and lifestyles affect parents' and children' insomnia.
+-	Explored the potential association between parental COVID-related worries, lifestyles, and insomnia with children's COVID-related worries, lifestyles, and insomnia, respectively.
+-	Investigated the potential pathways from parental COVID-related worries, lifestyles, and insomnia to children's insomnia.
+</div>
+</div>
 
-## 4️⃣ Intergenerational Transmission of Psychological Distress and Lifestyle Factors
+- **Zhan, N.**, Zhang, Y., Xie, D., & Geng, F.\* (2022). The associations of parental COVID-19 related worries, lifestyles, and insomnia with child insomnia during the COVID-19 outbreak. *Journal of Sleep Research*, e13590. [[doi]](https://doi.org/10.1111/jsr.13590)
+- Zhang, Y., **Zhan, N.**, Long, M., Xie, D., & Geng, F.\* (2022). Associations of childhood neglect, difficulties in emotion regulation, and psychological distresses to COVID-19 pandemic: An intergenerational analysis. *Child Abuse & Neglect*, *129*, 105674. [[doi]](https://doi.org/10.1016/j.chiabu.2022.105674)
+-  Zhang, Y., **Zhan, N.**, Zou, J., Xie, D., Liu, M., & Geng, F.\* (2022). The transmission of psychological distress and lifestyles from parents to children during COVID-19. *Journal of Affective Disorders*, *303*, 74-81. [[doi]](https://doi.org/10.1016/j.jad.2022.02.007)
 
+---
 
-## 4️⃣ Studies related to clinical mental health in a wider perspective
+## 4️⃣ Impact of Childhood Experiences on Psychological Outcomes
+*Description:* This project aim to the influence of positive childhood experiences and adversive childhood experiences on various psychological outcomes, including PTSD, depression, prosocial behavior, insomnia symptoms, and so on.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021 BCEs</div><img src='images/project-zhan2021bces.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Psychometric Properties of the Benevolent Childhood Experiences Scale in China](https://pubmed.ncbi.nlm.nih.gov/34290847/)** \\
+**Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
+-	Examined and validated the psychometric properties of the Chinese version of the Benevolent Childhood Experiences scale (BCEs) in a community adults.
+-	Investigated the associations between positive childhood experiences (PCEs) and adulthood emotional problems and prosocial behaviors.
+-	Used multiple liner regression to examine the independent and interactive effects of PCEs, lifetime trauma, childhood trauma on PTSD symptoms, depression, and prosocial behaviors.
+</div>
+</div>
+
+- **Zhan, N.**, Xie, D., Zou, J., Wang, J., & Geng, F.\* (2021). The validity and reliability of benevolent childhood experiences scale in Chinese community adults. *European Journal of Psychotraumatology*, *12*(1), 1945747. [[doi]](https://doi.org/10.1080/20008198.2021.1945747)
+- Fung, H. W.\*, Geng, F., Yuan, D., **Zhan, N.**, & Lee, V. W. P. (2023). Childhood experiences and dissociation among high school students in China: Theoretical reexamination and clinical implications. *The International Journal of Social Psychiatry*, 207640231181528. Advance online publication. [[doi]](https://doi.org/10.1177/00207640231181528)
+- Geng, F.\*, Zou, J., Liang, Y., **Zhan, N.**, Li, S., & Wang, J. (2021). Associations of positive and adverse childhood experiences and adulthood insomnia in a community sample of Chinese adults. *Sleep Medicine*, *80*, 46-51. [[doi]](https://doi.org/10.1016/j.sleep.2021.01.022)
+
+--- 
+
+## 5️⃣ Studies related to clinical mental health in a wider perspective
 
 
 
@@ -148,10 +182,8 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 1. **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F.\* (submitted). A symptom level perspective on irritability, PTSD, and depression in children and adults.
 
 2. Zhang, K., **Zhan, N.**, Xue, X., Man, J., Li, F., & Geng, F.\* (submitted). Associations among fear of cancer recurrence, posttraumatic stress symptoms, depression and irritability in cancer patients: A network analysis.
-   
-3. Geng, F., Cao, Y., **Zhan, N.**, Xie, D., Wang, J., & Zhang, L.\* (submitted). Dispositional optimism boosts family adaptation to the COVID-19 pandemic: an intergenerational investigation of the associations between dispositional optimism, COVID-19 related worries, and depression/anxiety symptoms.
 
-4. Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
+3. Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
 
 ## 4️⃣ Conference Presentations
 
