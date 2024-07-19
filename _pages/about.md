@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 😺 About Me
+
 I am currently a second-year master’s student in the School of Psychology at Jiangxi Normal University, having commenced my studies in September 2022 and anticipating graduation in June 2025. Prior to my master’s program, I completed my Bachelor of Science degree in Psychology at the same institution, from September 2018 to June 2022. 
 
 My academic journey has been profoundly shaped by Dr. [Fulei Geng](https://www.researchgate.net/profile/Fulei-Geng), who has been my steadfast research supervisor since September 2019, when I first joined his laboratory, and continues to guide me to this day. His mentorship has been pivotal throughout my academic journey, including the guidance he provided for both my undergraduate thesis and my current master’s dissertation.
