@@ -63,8 +63,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 
 - **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F.\* (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory-9 in Chinese adolescents and adults. *Psychological Assessment*. [[doi]](https://doi.org/10.1037/pas0001309)
 
-</div>
-</div>
+---
 
 ## 2️⃣ Trajectories and Psychosocial Mechanisms of PTSD and Its Subtypes
 *Description:* This project aim to investigate the developmental trajectories and the physiological and psychological mechanisms of PTSD and its subtypes.
