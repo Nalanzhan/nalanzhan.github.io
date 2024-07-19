@@ -50,7 +50,6 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 PTCI</div><img src='images/project-zhan2024factor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,8 +61,41 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 </div>
 </div>
 
+- **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F.\* (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory-9 in Chinese adolescents and adults. *Psychological Assessment*. [[doi]](https://doi.org/10.1037/pas0001309)
 
 ## 2️⃣ Trajectories and Psychosocial Mechanisms of PTSD and Its Subtypes
+*Description:* This project aim to investigate the developmental trajectories and the physiological and psychological mechanisms of PTSD and its subtypes.
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ongoing</div><img src='images/project-zhan2024network.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Symptom Level Perspective on Irritability, PTSD, and Depression** \\
+**Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
+-	Used separate and well-validated scales to measure irritability, anger, hostility, and aggression in a community sample of adults with probable PTSD.
+-	Conducted exploratory graph analysis and network analysis to examine cross-sectional relationships between symptoms of irritability, PTSD, and depression.
+-	Used Cross-lagged Panel Network Model analysis further to explore relationships between symptoms of irritability, PTSD, and depression.
+</div>
+</div>
+
+- **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F.\* (submitted). A symptom level perspective on irritability, PTSD, and depression in children and adults.
+- **Zhan, N.**, & Geng, F.\* (2024, September). *Longitudinal Relationships Between Posttraumatic Stress Disorder, Irritability, Depression in Trauma-Exposed Children and Adolescents: A Cross-Lagged Panel Network Analysis*. Poster accepted for presentation at the 40th annual meeting of the International Society for Traumatic Stress Studies conference in Boston, MA.
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Irritability</div><img src='images/project-zhan2023irritability.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Clinical Correlates of Irritability and Aggression in PTSD** \\
+**Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
+-	Used separate and well-validated scales to measure irritability, anger, hostility, and aggression in a community sample of adults with probable PTSD.
+-	Conducted correlation analysis to examine (1) relationships between PTSD symptoms, irritability, anger, hostility, and aggression, and (2) relationships between irritability, other clinical symptoms and suicidal behaviors.
+-	Performed latent profile analysis and logistic regression analysis to explore subgroups of PTSD, irritability, and aggression, and potential likelihood of experiencing comorbidities and suicidal behaviors across observed subgroups.
+</div>
+</div>
+
+- **Zhan, N.**, Zhang, L., Gong, M., & Geng, F.\* (2023). Clinical correlates of irritability, anger, hostility, and aggression in posttraumatic stress disorder. *Psychological Trauma: Theory, Research, Practice, and Policy*, Advance online publication. [[doi]](https://doi.org/dx.10.1037/tra0001498)
+- Geng, F.\*, Liang, Y., **Zhan, N.**, & Wang, J. (2022). Prevalence, clinical features, and psychological characteristics of dissociative subtype of posttraumatic stress disorder in Chinese prisoners. *Journal of Trauma & Dissociation*, *24*(1), 63–78. [[doi]](https://doi.org/10.1080/15299732.2022.2079797)
+
 
 
 ## 3️⃣ Impact of Childhood Experiences on Psychological Outcomes
