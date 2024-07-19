@@ -38,7 +38,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 <br>
 <br>
 
-# 📑 Research Projects
+# 📑 Research Projects and Publications
 
 ## 1️⃣ Pathological Mechanisms of PTSD
 *Description:* This project aim to investigate the pathological mechanisms of the onset, development, and progression of posttraumatic stress disorder (PTSD), involving susceptibility, cognitive biases, fear memory, and stress hormones.
