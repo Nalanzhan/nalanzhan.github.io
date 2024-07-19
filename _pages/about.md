@@ -140,9 +140,18 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 
 --- 
 
-## 5️⃣ Studies related to clinical mental health in a wider perspective
+## 5️⃣ Studies Related to Clinical Mental Health Issue in a Wider Range
+*Description:* This project aims to take a broad, lifespan approach in studying clinical mental health issues.
 
+- Yuan, D., Li, Q., **Zhan, N.**, Zhang, L., Wang, J., Liu, M., & Geng, F.\* (2023). Longitudinal associations of menstrual characteristics with mental health problems among Chinese girls. *European Child & Adolescent Psychiatry*. [[doi]](https://doi.org/10.1007/s00787-023-02345-y)
+- Geng, F.\*, Lu, H., Zhang, Y., **Zhan, N.**, Zhang, L., & Liu, M. (2022). Dissociative depression and its related clinical and psychological characteristics among Chinese prisoners: A latent class analysis. *Current Psychology*, *42*(15061 - 15069). [[doi]](https://doi.org/10.1007/s12144-022-02751-6)
+- Zhang, Y., Li, Q., Hu, W., **Zhan, N.**, Zou, J., Wang, J., & Geng, F.\* (2022). The relationships between screen time and mental health problems among Chinese adults. *Journal of Psychiatric Research*, *146*, 279-285. [[doi]](https://doi.org/10.1016/j.jpsychires.2021.11.017)
+- Geng, F.\*, Tu, L., **Zhan, N.**, Zhang, Y., & Wang, J. (2021). Associations of substance abuse histories and gambling addiction history with post-traumatic stress symptoms and depressive symptoms among Chinese prisoners. *European Journal of Psychotraumatology*, *12*(1), 1906022. [[doi]](https://doi.org/10.1080/20008198.2021.1906022)
+- Zhang, K., **Zhan, N.**, Xue, X., Man, J., Li, F., & Geng, F.\* (submitted). Associations among fear of cancer recurrence, posttraumatic stress symptoms, depression and irritability in cancer patients: A network analysis.
+- Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
 
+<br>
+<br>
 
 # 📝 Publications 
 *Note. \* indicates the correspondent author*
