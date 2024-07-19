@@ -25,7 +25,7 @@ My academic journey has been profoundly shaped by Dr. [Fulei Geng](https://www.r
 
 My current research mainly focuses on trauma- and stressor-related disorders, particularly: 1) the psychosocial and pathological mechanisms of PTSD and its subtypes; 2) protective and risk factors for psychological distress, especially childhood experiences and intergenerational transmission.
 
-I am currently seeking a doctoral position in the field of psychology, with a particular interest in: 1) physiological and psychological responses of general population after trauma and stress; 2) psychosocial and pathological mechanisms of trauma-and stress-related disorders, and anxiety; 3) recovery approaches and processes trauma- and stress-related disorders and anxiety.
+I am currently seeking a doctoral position in the field of psychology, with a particular interest in: 1) physiological and psychological responses of general population after trauma and stress; 2) psychosocial and pathological mechanisms of trauma-and stress-related disorders, and anxiety; 3) recovery approaches and processes of trauma- and stress-related disorders and anxiety.
 
 In my future doctoral research, I plan to acquire skills in physiology, behavior, and imaging. Using techniques from laboratory experiments to neuroimaging, I hope to explore the etiology and pathology of trauma- and stressor-related disorders comprehensively.
 
@@ -56,7 +56,7 @@ Trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological me
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 PsyAss</div><img src='images/project-zhan2024factor.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 PsycholAssess</div><img src='images/project-zhan2024factor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Psychometric Properties of the Posttraumatic Cognitions Inventory-9 in China](https://pubmed.ncbi.nlm.nih.gov/38330308/)** \\
