@@ -33,7 +33,7 @@ In my future doctoral research, I plan to acquire skills in physiology, behavior
 <br>
 
 # ⭐ Research Interests
-trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; protective and risk factors; mental health; recovery; uncertainty; decision making; memory
+Trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological mechanisms; protective and risk factors; mental health; recovery; uncertainty; memory
 
 <br>
 <br>
@@ -43,7 +43,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 ## 1️⃣ Pathological Mechanisms of PTSD
 *Description:* This project aim to investigate the pathological mechanisms of the onset, development, and progression of posttraumatic stress disorder (PTSD), involving susceptibility, cognitive biases, fear memory, and stress hormones.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ongoing</div><img src='images/project-zhan2024ptsd.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ONGOING</div><img src='images/project-zhan2024ptsd.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Associations between Default Mode Network Functional Connectivity and Conditioning Fear Extinction in PTSD: A Resting-state Functional MRI Study** \\
@@ -56,7 +56,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 PTCI</div><img src='images/project-zhan2024factor.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 PsyAss</div><img src='images/project-zhan2024factor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Psychometric Properties of the Posttraumatic Cognitions Inventory-9 in China](https://pubmed.ncbi.nlm.nih.gov/38330308/)** \\
@@ -76,7 +76,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 *Description:* This project aim to investigate the developmental trajectories and the physiological and psychological mechanisms of PTSD and its subtypes.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ongoing</div><img src='images/project-zhan2024network.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ONGOING</div><img src='images/project-zhan2024network.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Symptom Level Perspective on Irritability, PTSD, and Depression** \\
@@ -91,7 +91,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 - **Zhan, N.**, & Geng, F.\* (2024, September). *Longitudinal Relationships Between Posttraumatic Stress Disorder, Irritability, Depression in Trauma-Exposed Children and Adolescents: A Cross-Lagged Panel Network Analysis*. Poster accepted for presentation at the 40th annual meeting of the International Society for Traumatic Stress Studies conference in Boston, MA.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 Irritability</div><img src='images/project-zhan2023irritability.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 PsycholTrauma</div><img src='images/project-zhan2023irritability.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Clinical Correlates of Irritability and Aggression in PTSD](https://pubmed.ncbi.nlm.nih.gov/37104771/)** \\
@@ -111,7 +111,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 ## 3️⃣ Intergenerational Transmission of Psychological Distress and Lifestyle Factors
 *Description:* This project aim to investigate how parents' health, behavior, and emotions can influence the health, behavior, and emotions of their children. Potential factors involved may include worry, physical exercise, screen time, emotion regulation, and so on.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 INSOMNIA</div><img src='images/project-zhan2023transmission.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 JSP</div><img src='images/project-zhan2023transmission.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[The Transmission of Insomnia from Parents to Children in COVID-19](https://pubmed.ncbi.nlm.nih.gov/35362217/)** \\
@@ -132,7 +132,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 ## 4️⃣ Impact of Childhood Experiences on Psychological Outcomes
 *Description:* This project aim to the influence of positive childhood experiences and adversive childhood experiences on various psychological outcomes, including PTSD, depression, prosocial behavior, insomnia symptoms, and so on.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021 BCEs</div><img src='images/project-zhan2021bces.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021 EJPT</div><img src='images/project-zhan2021bces.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Psychometric Properties of the Benevolent Childhood Experiences Scale in China](https://pubmed.ncbi.nlm.nih.gov/34290847/)** \\
