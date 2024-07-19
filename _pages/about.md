@@ -27,10 +27,14 @@ I am currently seeking a doctoral position in the field of psychology, with a pa
 
 In my future doctoral research, I plan to acquire skills in physiology, behavior, and imaging. Using techniques from laboratory experiments to neuroimaging, I hope to explore the etiology and pathology of trauma- and stressor-related disorders comprehensively.
 
+<br>
+<br>
 
 # ⭐ Research Interests
 trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; protective and risk factors; mental health; recovery; uncertainty; decision making; memory
 
+<br>
+<br>
 
 # 📑 Research Projects
 
@@ -64,6 +68,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 - **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F.\* (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory-9 in Chinese adolescents and adults. *Psychological Assessment*. [[doi]](https://doi.org/10.1037/pas0001309)
 
 ---
+<br>
 
 ## 2️⃣ Trajectories and Psychosocial Mechanisms of PTSD and Its Subtypes
 *Description:* This project aim to investigate the developmental trajectories and the physiological and psychological mechanisms of PTSD and its subtypes.
@@ -99,6 +104,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 - Geng, F.\*, Liang, Y., **Zhan, N.**, & Wang, J. (2022). Prevalence, clinical features, and psychological characteristics of dissociative subtype of posttraumatic stress disorder in Chinese prisoners. *Journal of Trauma & Dissociation*, *24*(1), 63–78. [[doi]](https://doi.org/10.1080/15299732.2022.2079797)
 
 ---
+<br>
 
 ## 3️⃣ Intergenerational Transmission of Psychological Distress and Lifestyle Factors
 *Description:* This project aim to investigate how parents' health, behavior, and emotions can influence the health, behavior, and emotions of their children. Potential factors involved may include worry, physical exercise, screen time, emotion regulation, and so on.
@@ -119,6 +125,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 -  Zhang, Y., **Zhan, N.**, Zou, J., Xie, D., Liu, M., & Geng, F.\* (2022). The transmission of psychological distress and lifestyles from parents to children during COVID-19. *Journal of Affective Disorders*, *303*, 74-81. [[doi]](https://doi.org/10.1016/j.jad.2022.02.007)
 
 ---
+<br>
 
 ## 4️⃣ Impact of Childhood Experiences on Psychological Outcomes
 *Description:* This project aim to the influence of positive childhood experiences and adversive childhood experiences on various psychological outcomes, including PTSD, depression, prosocial behavior, insomnia symptoms, and so on.
@@ -139,6 +146,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 - Geng, F.\*, Zou, J., Liang, Y., **Zhan, N.**, Li, S., & Wang, J. (2021). Associations of positive and adverse childhood experiences and adulthood insomnia in a community sample of Chinese adults. *Sleep Medicine*, *80*, 46-51. [[doi]](https://doi.org/10.1016/j.sleep.2021.01.022)
 
 --- 
+<br>
 
 ## 5️⃣ Studies Related to Clinical Mental Health Issue in a Wider Range
 *Description:* This project aims to take a broad, lifespan approach in studying clinical mental health issues.
@@ -165,6 +173,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 3. **Zhan, N.**, Zhang, Y., Xie, D., & Geng, F.\* (2022). The associations of parental COVID-19 related worries, lifestyles, and insomnia with child insomnia during the COVID-19 outbreak. *Journal of Sleep Research*, e13590. [[doi]](https://doi.org/10.1111/jsr.13590)
 
 4. **Zhan, N.**, Xie, D., Zou, J., Wang, J., & Geng, F.\* (2021). The validity and reliability of benevolent childhood experiences scale in Chinese community adults. *European Journal of Psychotraumatology*, *12*(1), 1945747. [[doi]](https://doi.org/10.1080/20008198.2021.1945747)
+<br>
 
 ## 2️⃣ Co-Author
 
@@ -185,6 +194,7 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 8. Geng, F.\*, Tu, L., **Zhan, N.**, Zhang, Y., & Wang, J. (2021). Associations of substance abuse histories and gambling addiction history with post-traumatic stress symptoms and depressive symptoms among Chinese prisoners. *European Journal of Psychotraumatology*, *12*(1), 1906022. [[doi]](https://doi.org/10.1080/20008198.2021.1906022)
 
 9. Geng, F.\*, Zou, J., Liang, Y., **Zhan, N.**, Li, S., & Wang, J. (2021). Associations of positive and adverse childhood experiences and adulthood insomnia in a community sample of Chinese adults. *Sleep Medicine*, *80*, 46-51. [[doi]](https://doi.org/10.1016/j.sleep.2021.01.022)
+<br>
 
 ## 3️⃣ Working Papers
 
@@ -193,10 +203,14 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 2. Zhang, K., **Zhan, N.**, Xue, X., Man, J., Li, F., & Geng, F.\* (submitted). Associations among fear of cancer recurrence, posttraumatic stress symptoms, depression and irritability in cancer patients: A network analysis.
 
 3. Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
+<br>
 
 ## 4️⃣ Conference Presentations
 
 1. **Zhan, N.**, & Geng, F.\* (2024, September). *Longitudinal Relationships Between Posttraumatic Stress Disorder, Irritability, Depression in Trauma-Exposed Children and Adolescents: A Cross-Lagged Panel Network Analysis*. Poster accepted for presentation at the 40th annual meeting of the International Society for Traumatic Stress Studies conference in Boston, MA.
+
+<br>
+<br>
 
 # 🏅 Honors and Awards
 - *2023/2024* - First Prize Scholarship of Outstanding Graduates, Jiangxi Province Government
@@ -206,17 +220,24 @@ trauma and stress; PTSD; anxiety; psychosocial and pathological mechanisms; prot
 - *2019/2021/2022* - First Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
 - *2020* - Second Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
 
+<br>
+<br>
+
 # 💻 Other Experiences
 
 ## 1️⃣ Abstract Reviewer
 
 - *3/2024* - The 40th Annual Meeting of the International Society for Traumatic Stress Studies conference
 
+<br>
+
 ## 2️⃣ Memberships
 
 - *2023-2026* - Student member of the International Society of Traumatic Stress Studies
 - *2023-2025* - Student member of the American Psychological Association
 - *2023-2024* - Student member of the Chinese Psychological Society
+
+<br>
 
 ## 3️⃣ Other Work Experiences
 
