@@ -23,11 +23,11 @@ I am currently a second-year master’s student in the School of Psychology at J
 
 My academic journey has been profoundly shaped by Dr. [Fulei Geng](https://www.researchgate.net/profile/Fulei-Geng), who has been my steadfast research supervisor since September 2019, when I first joined his laboratory, and continues to guide me to this day. His mentorship has been pivotal throughout my academic journey, including the guidance he provided for both my undergraduate thesis and my current master’s dissertation.
 
-My current research mainly focuses on trauma- and stressor-related disorders, particularly: 1) the psychosocial and pathological mechanisms of PTSD and its subtypes; 2) protective and risk factors for psychological distress, especially childhood experiences and intergenerational transmission.
+My current **research** mainly focuses on trauma- and stressor-related disorders, particularly: 1) the psychosocial and pathological mechanisms of PTSD and its subtypes; 2) protective and risk factors for psychological distress, especially childhood experiences and intergenerational transmission.
 
-I am currently seeking a doctoral position in the field of psychology, with a particular interest in: 1) physiological and psychological responses of general population after trauma and stress; 2) psychosocial and pathological mechanisms of trauma-and stress-related disorders, and anxiety; 3) recovery approaches and processes of trauma- and stress-related disorders and anxiety.
+I am currently seeking a doctoral position in the field of psychology, with a particular **interest** in: 1) physiological and psychological responses of general population after trauma and stress; 2) psychosocial and pathological mechanisms of trauma-and stress-related disorders, and anxiety; 3) recovery approaches and processes of trauma- and stress-related disorders and anxiety.
 
-In my future doctoral research, I plan to acquire skills in physiology, behavior, and imaging. Using techniques from laboratory experiments to neuroimaging, I hope to explore the etiology and pathology of trauma- and stressor-related disorders comprehensively.
+In my **future doctoral research**, I plan to acquire skills in physiology, behavior, and imaging. Using techniques from laboratory experiments to neuroimaging, I hope to explore the etiology and pathology of trauma- and stressor-related disorders comprehensively.
 
 <br>
 <br>
