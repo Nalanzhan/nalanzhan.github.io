@@ -25,15 +25,20 @@ My academic journey has been profoundly shaped by Dr. [Fulei Geng](https://www.r
 
 My current **research** mainly focuses on trauma- and stressor-related disorders, particularly: 1) the psychosocial and pathological mechanisms of PTSD and its subtypes; 2) protective and risk factors for psychological distress, especially childhood experiences and intergenerational transmission.
 
-I am currently seeking a doctoral position in the field of psychology, with a particular **interest** in: 1) physiological and psychological responses of general population after trauma and stress; 2) psychosocial and pathological mechanisms of trauma-and stress-related disorders, and anxiety; 3) recovery approaches and processes of trauma- and stress-related disorders and anxiety.
+I am currently seeking a doctoral position in the field of clinical science and/or development psychology, with interests in: 
+- The underlying mechanisms of affective and neurodevelopmental psychopathology (e.g., trauma and stressor-related disorders, anxiety, irritability) using a combination of physiological, behavioral, and neuroimaging tools.
+- The dynamic and longitudinal relationship between environmental factors (e.g., adversity, childhood experiences, family parenting) and neural, psychosocial, and cognitive development in children, adolescents, and adults.
+- Protective and risk factors for affective and neurodevelopmental psychopathology.
+- Effective interventions to mitigate the negative impacts of trauma and adversity.
 
-In my **future doctoral research**, I plan to acquire skills in physiology, behavior, and imaging. Using techniques from laboratory experiments to neuroimaging, I hope to explore the etiology and pathology of trauma- and stressor-related disorders comprehensively.
+
+In my **future doctoral research**, I plan to acquire multifaceted skills in physiology, behavior, and imaging to explore the etiology and pathology of affective and neurodevelopmental psychopathology comprehensively in adolescents and adults. 
 
 <br>
 <br>
 
 # ⭐ Research Interests
-Trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological mechanisms; protective and risk factors; mental health; recovery; uncertainty; memory
+trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological mechanisms; protective and risk factors; mental health; recovery; uncertainty; memory
 
 <br>
 <br>
