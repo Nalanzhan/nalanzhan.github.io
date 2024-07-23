@@ -23,7 +23,7 @@ I am currently a second-year master’s student in the School of Psychology at J
 
 My academic journey has been profoundly shaped by Dr. [Fulei Geng](https://www.researchgate.net/profile/Fulei-Geng), who has been my steadfast research supervisor since September 2019, when I first joined his laboratory, and continues to guide me to this day. His mentorship has been pivotal throughout my academic journey, including the guidance he provided for both my undergraduate thesis and my current master’s dissertation.
 
-My current **research** mainly focuses on trauma- and stressor-related disorders, particularly: 1) the psychosocial and pathological mechanisms of PTSD and its subtypes; 2) protective and risk factors for psychological distress, especially childhood experiences and intergenerational transmission.
+My current **research** mainly focuses on trauma- and stressor-related disorders, particularly: 1) the psychosocial and pathological mechanisms of PTSD and its subtypes; 2) protective and risk factors for psychological distress, especially childhood experiences, and intergenerational transmission.
 
 I am currently seeking a doctoral position in the field of clinical science and/or development psychology, with interests in: 
 - The underlying mechanisms of affective and neurodevelopmental psychopathology (e.g., trauma and stressor-related disorders, anxiety, irritability) using a combination of physiological, behavioral, and neuroimaging tools.
@@ -46,7 +46,7 @@ trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological me
 # 📑 Research Projects and Publications
 
 ## 1️⃣ Pathological Mechanisms of PTSD
-*Description:* This project aim to investigate the pathological mechanisms of the onset, development, and progression of posttraumatic stress disorder (PTSD), involving susceptibility, cognitive biases, fear memory, and stress hormones.
+*Description:* This project aims to investigate the pathological mechanisms of the onset, development, and progression of posttraumatic stress disorder (PTSD), involving susceptibility, cognitive biases, fear memory, and stress hormones.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ONGOING</div><img src='images/project-zhan2024ptsd.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,7 +55,7 @@ trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological me
 **Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)\\
 **Collaborators**: Kailiang Zhang and Dawei Wang (Qilu Hospital, Shandong University)
 -	Designed the study, developed experimental protocols using E-prime, and collected behavioral (self-report), physiological (EDA), and imaging (sMRI and rs-fMRI) data using a laptop, BIOPAC MP160 System, and MRI scanner.
--	Planned to conduct data preprocessing and analysis: preprocessing EDA data with Acqknowledge and imaging data with MATLAB; analyzing behavioral, physiological, and imaging data using R, SPSS, and Excel together; and prepared final results for reporting and manuscript writing.
+-	Planned to conduct data preprocessing and analysis: preprocessing EDA data with Acqknowledge and imaging data with MATLAB; analyzing behavioral, physiological, and imaging data using R, SPSS, and Excel together; and preparing final results for reporting and manuscript writing.
 -	Current progress: Preparing submissions to and addressing responses from the IRB (e.g., full applications, continuing reviews, amendments).
 </div>
 </div>
@@ -67,8 +67,8 @@ trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological me
 **[Psychometric Properties of the Posttraumatic Cognitions Inventory-9 in China](https://pubmed.ncbi.nlm.nih.gov/38330308/)** \\
 **Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
 -	Conducted confirmatory factor analysis to examine the psychometrics of the PTCI-9 in a large sample of Chinese adolescents and adults.
--	Tested measurement invariances of PTCI-9 across age (adolescent vs adult), sex (male vs female), trauma exposure (direct vs indirect), and types of traumas (interpersonal va non-interpersonal).
--	Examined relationships between posttraumatic cognitons, PTSD symptoms, depression, anxiety, and life satisfaction to support the convergent and discriminative validity of the PTCI-9.
+-	Tested measurement invariances of PTCI-9 across age (adolescent vs adult), sex (male vs female), trauma exposure (direct vs indirect), and types of traumas (interpersonal vs non-interpersonal).
+-	Examined relationships between posttraumatic cognitions, PTSD symptoms, depression, anxiety, and life satisfaction to support the convergent and discriminative validity of the PTCI-9.
 </div>
 </div>
 
@@ -78,7 +78,7 @@ trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological me
 <br>
 
 ## 2️⃣ Trajectories and Psychosocial Mechanisms of PTSD and Its Subtypes
-*Description:* This project aim to investigate the developmental trajectories and the physiological and psychological mechanisms of PTSD and its subtypes.
+*Description:* This project aims to investigate the developmental trajectories and the physiological and psychological mechanisms of PTSD and its subtypes.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ONGOING</div><img src='images/project-zhan2024network.jpg' alt="sym" width="100%"></div></div>
@@ -102,8 +102,8 @@ trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological me
 **[Clinical Correlates of Irritability and Aggression in PTSD](https://pubmed.ncbi.nlm.nih.gov/37104771/)** \\
 **Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
 -	Used separate and well-validated scales to measure irritability, anger, hostility, and aggression in a community sample of adults with probable PTSD.
--	Conducted correlation analysis to examine (1) relationships between PTSD symptoms, irritability, anger, hostility, and aggression, and (2) relationships between irritability, other clinical symptoms and suicidal behaviors.
--	Performed latent profile analysis and logistic regression analysis to explore subgroups of PTSD, irritability, and aggression, and potential likelihood of experiencing comorbidities and suicidal behaviors across observed subgroups.
+-	Conducted correlation analysis to examine (1) relationships between PTSD symptoms, irritability, anger, hostility, and aggression, and (2) relationships between irritability, other clinical symptoms, and suicidal behaviors.
+-	Performed latent profile analysis and logistic regression analysis to explore subgroups of PTSD, irritability, and aggression, and the potential likelihood of experiencing comorbidities and suicidal behaviors across observed subgroups.
 </div>
 </div>
 
@@ -114,20 +114,20 @@ trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological me
 <br>
 
 ## 3️⃣ Intergenerational Transmission of Psychological Distress and Lifestyle Factors
-*Description:* This project aim to investigate how parents' health, behavior, and emotions can influence the health, behavior, and emotions of their children. Potential factors involved may include worry, physical exercise, screen time, emotion regulation, and so on.
+*Description:* This project aims to investigate how parents' health, behavior, and emotions can influence the health, behavior, and emotions of their children. Potential factors involved may include worry, physical exercise, screen time, emotion regulation, and so on.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 JSP</div><img src='images/project-zhan2023transmission.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[The Transmission of Insomnia from Parents to Children in COVID-19](https://pubmed.ncbi.nlm.nih.gov/35362217/)** \\
 **Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
--	Examined how COVID-related worries and lifestyles affect parents' and children' insomnia.
+-	Examined how COVID-related worries and lifestyles affect parents' and children's insomnia.
 -	Explored the potential association between parental COVID-related worries, lifestyles, and insomnia with children's COVID-related worries, lifestyles, and insomnia, respectively.
 -	Investigated the potential pathways from parental COVID-related worries, lifestyles, and insomnia to children's insomnia.
 </div>
 </div>
 
-- **Zhan, N.**, Zhang, Y., Xie, D., & Geng, F.\* (2022). The associations of parental COVID-19 related worries, lifestyles, and insomnia with child insomnia during the COVID-19 outbreak. *Journal of Sleep Research*, e13590. [[doi]](https://doi.org/10.1111/jsr.13590)
+- **Zhan, N.**, Zhang, Y., Xie, D., & Geng, F.\* (2022). The associations of parental COVID-19-related worries, lifestyles, and insomnia with child insomnia during the COVID-19 outbreak. *Journal of Sleep Research*, e13590. [[doi]](https://doi.org/10.1111/jsr.13590)
 - Zhang, Y., **Zhan, N.**, Long, M., Xie, D., & Geng, F.\* (2022). Associations of childhood neglect, difficulties in emotion regulation, and psychological distresses to COVID-19 pandemic: An intergenerational analysis. *Child Abuse & Neglect*, *129*, 105674. [[doi]](https://doi.org/10.1016/j.chiabu.2022.105674)
 -  Zhang, Y., **Zhan, N.**, Zou, J., Xie, D., Liu, M., & Geng, F.\* (2022). The transmission of psychological distress and lifestyles from parents to children during COVID-19. *Journal of Affective Disorders*, *303*, 74-81. [[doi]](https://doi.org/10.1016/j.jad.2022.02.007)
 
@@ -135,35 +135,35 @@ trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological me
 <br>
 
 ## 4️⃣ Impact of Childhood Experiences on Psychological Outcomes
-*Description:* This project aim to the influence of positive childhood experiences and adversive childhood experiences on various psychological outcomes, including PTSD, depression, prosocial behavior, insomnia symptoms, and so on.
+*Description:* This project aims to examine the influence of positive childhood experiences and adverse childhood experiences on various psychological outcomes, including PTSD, depression, prosocial behavior, insomnia symptoms, and so on.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021 EJPT</div><img src='images/project-zhan2021bces.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Psychometric Properties of the Benevolent Childhood Experiences Scale in China](https://pubmed.ncbi.nlm.nih.gov/34290847/)** \\
 **Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
--	Examined and validated the psychometric properties of the Chinese version of the Benevolent Childhood Experiences scale (BCEs) in a community adults.
+-	Examined and validated the psychometric properties of the Chinese version of the Benevolent Childhood Experiences scale (BCEs) in community adults.
 -	Investigated the associations between positive childhood experiences (PCEs) and adulthood emotional problems and prosocial behaviors.
--	Used multiple liner regression to examine the independent and interactive effects of PCEs, lifetime trauma, childhood trauma on PTSD symptoms, depression, and prosocial behaviors.
+-	Used multiple linear regression to examine the independent and interactive effects of PCEs, lifetime trauma, and childhood trauma on PTSD symptoms, depression, and prosocial behaviors.
 </div>
 </div>
 
 - **Zhan, N.**, Xie, D., Zou, J., Wang, J., & Geng, F.\* (2021). The validity and reliability of benevolent childhood experiences scale in Chinese community adults. *European Journal of Psychotraumatology*, *12*(1), 1945747. [[doi]](https://doi.org/10.1080/20008198.2021.1945747)
-- Fung, H. W.\*, Geng, F., Yuan, D., **Zhan, N.**, & Lee, V. W. P. (2023). Childhood experiences and dissociation among high school students in China: Theoretical reexamination and clinical implications. *The International Journal of Social Psychiatry*, 207640231181528. Advance online publication. [[doi]](https://doi.org/10.1177/00207640231181528)
+- Fung, H. W.\*, Geng, F., Yuan, D., **Zhan, N.**, & Lee, V. W. P. (2023). Childhood experiences and dissociation among high school students in China: Theoretical reexamination and clinical implications. *The International Journal of Social Psychiatry*, 207640231181528. Advanced online publication. [[doi]](https://doi.org/10.1177/00207640231181528)
 - Geng, F.\*, Zou, J., Liang, Y., **Zhan, N.**, Li, S., & Wang, J. (2021). Associations of positive and adverse childhood experiences and adulthood insomnia in a community sample of Chinese adults. *Sleep Medicine*, *80*, 46-51. [[doi]](https://doi.org/10.1016/j.sleep.2021.01.022)
 
 --- 
 <br>
 
-## 5️⃣ Studies Related to Clinical Mental Health Issue in a Wider Range
-*Description:* This project aims to take a broad, lifespan approach in studying clinical mental health issues.
+## 5️⃣ Studies Related to Clinical Mental Health Issues in a Wider Range
+*Description:* This project aims to take a broad, lifespan approach to studying clinical mental health issues.
 
 - Yuan, D., Li, Q., **Zhan, N.**, Zhang, L., Wang, J., Liu, M., & Geng, F.\* (2023). Longitudinal associations of menstrual characteristics with mental health problems among Chinese girls. *European Child & Adolescent Psychiatry*. [[doi]](https://doi.org/10.1007/s00787-023-02345-y)
 - Geng, F.\*, Lu, H., Zhang, Y., **Zhan, N.**, Zhang, L., & Liu, M. (2022). Dissociative depression and its related clinical and psychological characteristics among Chinese prisoners: A latent class analysis. *Current Psychology*, *42*(15061 - 15069). [[doi]](https://doi.org/10.1007/s12144-022-02751-6)
 - Zhang, Y., Li, Q., Hu, W., **Zhan, N.**, Zou, J., Wang, J., & Geng, F.\* (2022). The relationships between screen time and mental health problems among Chinese adults. *Journal of Psychiatric Research*, *146*, 279-285. [[doi]](https://doi.org/10.1016/j.jpsychires.2021.11.017)
 - Geng, F.\*, Tu, L., **Zhan, N.**, Zhang, Y., & Wang, J. (2021). Associations of substance abuse histories and gambling addiction history with post-traumatic stress symptoms and depressive symptoms among Chinese prisoners. *European Journal of Psychotraumatology*, *12*(1), 1906022. [[doi]](https://doi.org/10.1080/20008198.2021.1906022)
 - Zhang, K., **Zhan, N.**, Xue, X., Man, J., Li, F., & Geng, F.\* (submitted). Associations among fear of cancer recurrence, posttraumatic stress symptoms, depression and irritability in cancer patients: A network analysis.
-- Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
+- Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates, and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
 
 <br>
 <br>
@@ -177,7 +177,7 @@ trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological me
 
 2. **Zhan, N.**, Zhang, L., Gong, M., & Geng, F.\* (2023). Clinical correlates of irritability, anger, hostility, and aggression in posttraumatic stress disorder. *Psychological Trauma: Theory, Research, Practice, and Policy*, Advance online publication. [[doi]](https://doi.org/dx.10.1037/tra0001498)
 
-3. **Zhan, N.**, Zhang, Y., Xie, D., & Geng, F.\* (2022). The associations of parental COVID-19 related worries, lifestyles, and insomnia with child insomnia during the COVID-19 outbreak. *Journal of Sleep Research*, e13590. [[doi]](https://doi.org/10.1111/jsr.13590)
+3. **Zhan, N.**, Zhang, Y., Xie, D., & Geng, F.\* (2022). The associations of parental COVID-19-related worries, lifestyles, and insomnia with child insomnia during the COVID-19 outbreak. *Journal of Sleep Research*, e13590. [[doi]](https://doi.org/10.1111/jsr.13590)
 
 4. **Zhan, N.**, Xie, D., Zou, J., Wang, J., & Geng, F.\* (2021). The validity and reliability of benevolent childhood experiences scale in Chinese community adults. *European Journal of Psychotraumatology*, *12*(1), 1945747. [[doi]](https://doi.org/10.1080/20008198.2021.1945747)
 <br>
@@ -209,7 +209,7 @@ trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological me
 
 2. Zhang, K., **Zhan, N.**, Xue, X., Man, J., Li, F., & Geng, F.\* (submitted). Associations among fear of cancer recurrence, posttraumatic stress symptoms, depression and irritability in cancer patients: A network analysis.
 
-3. Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
+3. Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates, and long-term outcomes: A prospective case-cohort study combined with the experience sampling method. 
 <br>
 
 ## 4️⃣ Conference Presentations
