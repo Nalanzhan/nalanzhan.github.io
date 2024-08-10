@@ -8,11 +8,18 @@
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
-  <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<a href="../pdf/CV_NalanZhan.pdf"><p class="author__bio">{{ author.bio }}</p></a>{% endif %}
-  </div>
+<div class="author__content">
+  <h3 class="author__name">{{ author.name }}</h3>
+  {% if author.bio %}<a href="../pdf/CV_NalanZhan.pdf"><p class="author__bio">{{ author.bio }}</p></a>{% endif %}
+  
+  <!-- 添加音频播放器 -->
+  <audio controls>
+    <source src="../media/names-nalanzhan.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+</div>
 
+  
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
