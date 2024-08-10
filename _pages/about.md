@@ -25,12 +25,13 @@ My academic journey has been profoundly shaped by Dr. [Fulei Geng](https://www.r
 
 My current **research** mainly focuses on trauma- and stressor-related disorders, particularly: 1) the psychosocial and pathological mechanisms of PTSD and its subtypes; 2) protective and risk factors for psychological distress, especially childhood experiences, and intergenerational transmission.
 
+{% comment %}
 I am currently seeking a doctoral position in the field of clinical science and/or development psychology, with interests in: 
 - The underlying mechanisms of affective and neurodevelopmental psychopathology (e.g., trauma and stressor-related disorders, anxiety, irritability) using a combination of physiological, behavioral, and neuroimaging tools.
 - The dynamic and longitudinal relationship between environmental factors (e.g., adversity, childhood experiences, family parenting) and neural, psychosocial, and cognitive development in children, adolescents, and adults.
 - Protective and risk factors for affective and neurodevelopmental psychopathology.
 - Effective interventions to mitigate the negative impacts of trauma and adversity.
-
+{% endcomment %}
 
 In my **future doctoral research**, I plan to acquire multifaceted skills in physiology, behavior, and imaging to explore the etiology and pathology of affective and neurodevelopmental psychopathology comprehensively in adolescents and adults. 
 
