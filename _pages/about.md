@@ -39,7 +39,10 @@ In my **future doctoral research**, I plan to acquire multifaceted skills in phy
 <br>
 
 # ⭐ Research Interests
-trauma and stress; PTSD; anxiety; irritability; psychosocial and pathological mechanisms; protective and risk factors; mental health; recovery; uncertainty; memory
+- trauma and stress; PTSD; anxiety; irritability;
+- pathological and neurobiological mechanisms; developmental psychopathology
+- protective and risk factors; childhood experiences; adversity; recovery and resilience; uncertainty;
+- emotion regulation; memory; emotion
 
 <br>
 <br>
