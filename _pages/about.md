@@ -67,12 +67,10 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 </div>
 </div>
 
----
 <br>
 
 ## 2️⃣ Trajectories and Psychosocial Mechanisms of PTSD and Its Subtypes
 *Description:* This project aims to investigate the developmental trajectories and the physiological and psychological mechanisms of PTSD and its subtypes.
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ONGOING</div><img src='images/project-zhan2024network.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -99,7 +97,6 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 </div>
 
 
----
 <br>
 
 ## 3️⃣ Intergenerational Transmission of Psychological Distress and Lifestyle Factors
@@ -116,9 +113,6 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 </div>
 </div>
 
-
-
----
 <br>
 
 ## 4️⃣ Impact of Childhood Experiences on Psychological Outcomes
@@ -135,14 +129,8 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 </div>
 </div>
 
-
-
---- 
 <br>
 
-
-<br>
-<br>
 
 # 📝 Publications 
 *Note. \* indicates the correspondent author*
