@@ -133,7 +133,6 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 
 
 # 📝 Publications 
-*Note. \* indicates the correspondent author*
 
 ## 1️⃣ First Author
 1. **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F. (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory (PTCI) and its brief version (PTCI-9) in Chinese adolescents and adults. *Psychological Assessment, 36*(4), 291-302. [https://doi.org/10.1037/pas0001309](https://doi.org/10.1037/pas0001309)
