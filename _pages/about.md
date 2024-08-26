@@ -33,16 +33,7 @@ I am currently seeking a doctoral position in the field of clinical science and/
 - Effective interventions to mitigate the negative impacts of trauma and adversity.
 {% endcomment %}
 
-In my **future doctoral research**, I plan to acquire multifaceted skills in physiology, behavior, and imaging to explore the etiology and pathology of affective and neurodevelopmental psychopathology comprehensively in adolescents and adults. 
-
-<br>
-<br>
-
-# ⭐ Research Interests
-- trauma and stress; PTSD; anxiety; irritability;
-- pathological and neurobiological mechanisms; developmental psychopathology
-- protective and risk factors; childhood experiences; adversity; recovery and resilience; uncertainty;
-- emotion regulation; memory; emotion
+In my **future doctoral research**, I want to acquire multifaceted skills in physiology, behavior, and imaging to explore the etiology and pathology of stress-related disorders comprehensively in adolescents and adults. 
 
 <br>
 <br>
@@ -58,9 +49,9 @@ In my **future doctoral research**, I plan to acquire multifaceted skills in phy
 **Associations between Default Mode Network Functional Connectivity and Conditioning Fear Extinction in PTSD: A Resting-state Functional MRI Study** \\
 **Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)\\
 **Collaborators**: Kailiang Zhang and Dawei Wang (Qilu Hospital, Shandong University)
--	Designed the study, developed experimental protocols using E-prime, and planned to collect behavioral (self-report), physiological (EDA), and imaging (sMRI and rs-fMRI) data using a laptop, BIOPAC MP160 System, and MRI scanner.
--	Planned to conduct data preprocessing and analysis: preprocessing EDA data with Acqknowledge and imaging data with MATLAB; analyzing behavioral, physiological, and imaging data using R, SPSS, and Excel together; and preparing final results for reporting and manuscript writing.
--	Current progress: Preparing submissions to and addressing responses from the IRB (e.g., full applications, continuing reviews, amendments).
+-	Designed the study, developed experimental protocols using E-prime, and plan to collect behavioral (self-report), physiological (EDA), and imaging (sMRI and rs-fMRI) data using a laptop, BIOPAC MP160 System, and MRI scanner.
+-	Plan to conduct data preprocessing and analysis: preprocessing EDA data with Acqknowledge and imaging data with MATLAB; analyzing behavioral, physiological, and imaging data using R, SPSS, and Excel together; and preparing final results for reporting and manuscript writing.
+-	Current progress: Preparing IRB resubmissions.
 </div>
 </div>
 
@@ -75,8 +66,6 @@ In my **future doctoral research**, I plan to acquire multifaceted skills in phy
 -	Examined relationships between posttraumatic cognitions, PTSD symptoms, depression, anxiety, and life satisfaction to support the convergent and discriminative validity of the PTCI-9.
 </div>
 </div>
-
-- **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F.\* (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory-9 in Chinese adolescents and adults. *Psychological Assessment*. [[doi]](https://doi.org/10.1037/pas0001309)
 
 ---
 <br>
@@ -96,8 +85,6 @@ In my **future doctoral research**, I plan to acquire multifaceted skills in phy
 </div>
 </div>
 
-- **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F.\* (submitted). A symptom level perspective on irritability, PTSD, and depression in children and adults.
-- **Zhan, N.**, & Geng, F.\* (2024, September). *Longitudinal Relationships Between Posttraumatic Stress Disorder, Irritability, Depression in Trauma-Exposed Children and Adolescents: A Cross-Lagged Panel Network Analysis*. Poster accepted for presentation at the 40th annual meeting of the International Society for Traumatic Stress Studies conference in Boston, MA.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 PsycholTrauma</div><img src='images/project-zhan2023irritability.jpg' alt="sym" width="100%"></div></div>
@@ -111,8 +98,6 @@ In my **future doctoral research**, I plan to acquire multifaceted skills in phy
 </div>
 </div>
 
-- **Zhan, N.**, Zhang, L., Gong, M., & Geng, F.\* (2023). Clinical correlates of irritability, anger, hostility, and aggression in posttraumatic stress disorder. *Psychological Trauma: Theory, Research, Practice, and Policy*, Advance online publication. [[doi]](https://doi.org/dx.10.1037/tra0001498)
-- Geng, F.\*, Liang, Y., **Zhan, N.**, & Wang, J. (2022). Prevalence, clinical features, and psychological characteristics of dissociative subtype of posttraumatic stress disorder in Chinese prisoners. *Journal of Trauma & Dissociation*, *24*(1), 63–78. [[doi]](https://doi.org/10.1080/15299732.2022.2079797)
 
 ---
 <br>
@@ -131,9 +116,7 @@ In my **future doctoral research**, I plan to acquire multifaceted skills in phy
 </div>
 </div>
 
-- **Zhan, N.**, Zhang, Y., Xie, D., & Geng, F.\* (2022). The associations of parental COVID-19-related worries, lifestyles, and insomnia with child insomnia during the COVID-19 outbreak. *Journal of Sleep Research*, e13590. [[doi]](https://doi.org/10.1111/jsr.13590)
-- Zhang, Y., **Zhan, N.**, Long, M., Xie, D., & Geng, F.\* (2022). Associations of childhood neglect, difficulties in emotion regulation, and psychological distresses to COVID-19 pandemic: An intergenerational analysis. *Child Abuse & Neglect*, *129*, 105674. [[doi]](https://doi.org/10.1016/j.chiabu.2022.105674)
--  Zhang, Y., **Zhan, N.**, Zou, J., Xie, D., Liu, M., & Geng, F.\* (2022). The transmission of psychological distress and lifestyles from parents to children during COVID-19. *Journal of Affective Disorders*, *303*, 74-81. [[doi]](https://doi.org/10.1016/j.jad.2022.02.007)
+
 
 ---
 <br>
@@ -152,22 +135,11 @@ In my **future doctoral research**, I plan to acquire multifaceted skills in phy
 </div>
 </div>
 
-- **Zhan, N.**, Xie, D., Zou, J., Wang, J., & Geng, F.\* (2021). The validity and reliability of benevolent childhood experiences scale in Chinese community adults. *European Journal of Psychotraumatology*, *12*(1), 1945747. [[doi]](https://doi.org/10.1080/20008198.2021.1945747)
-- Fung, H. W.\*, Geng, F., Yuan, D., **Zhan, N.**, & Lee, V. W. P. (2023). Childhood experiences and dissociation among high school students in China: Theoretical reexamination and clinical implications. *The International Journal of Social Psychiatry*, 207640231181528. Advanced online publication. [[doi]](https://doi.org/10.1177/00207640231181528)
-- Geng, F.\*, Zou, J., Liang, Y., **Zhan, N.**, Li, S., & Wang, J. (2021). Associations of positive and adverse childhood experiences and adulthood insomnia in a community sample of Chinese adults. *Sleep Medicine*, *80*, 46-51. [[doi]](https://doi.org/10.1016/j.sleep.2021.01.022)
+
 
 --- 
 <br>
 
-## 5️⃣ Studies Related to Clinical Mental Health Issues in a Wider Range
-*Description:* This project aims to take a broad, lifespan approach to studying clinical mental health issues.
-
-- Yuan, D., Li, Q., **Zhan, N.**, Zhang, L., Wang, J., Liu, M., & Geng, F.\* (2023). Longitudinal associations of menstrual characteristics with mental health problems among Chinese girls. *European Child & Adolescent Psychiatry*. [[doi]](https://doi.org/10.1007/s00787-023-02345-y)
-- Geng, F.\*, Lu, H., Zhang, Y., **Zhan, N.**, Zhang, L., & Liu, M. (2022). Dissociative depression and its related clinical and psychological characteristics among Chinese prisoners: A latent class analysis. *Current Psychology*, *42*(15061 - 15069). [[doi]](https://doi.org/10.1007/s12144-022-02751-6)
-- Zhang, Y., Li, Q., Hu, W., **Zhan, N.**, Zou, J., Wang, J., & Geng, F.\* (2022). The relationships between screen time and mental health problems among Chinese adults. *Journal of Psychiatric Research*, *146*, 279-285. [[doi]](https://doi.org/10.1016/j.jpsychires.2021.11.017)
-- Geng, F.\*, Tu, L., **Zhan, N.**, Zhang, Y., & Wang, J. (2021). Associations of substance abuse histories and gambling addiction history with post-traumatic stress symptoms and depressive symptoms among Chinese prisoners. *European Journal of Psychotraumatology*, *12*(1), 1906022. [[doi]](https://doi.org/10.1080/20008198.2021.1906022)
-- Zhang, K., **Zhan, N.**, Xue, X., Man, J., Li, F., & Geng, F.\* (submitted). Associations among fear of cancer recurrence, posttraumatic stress symptoms, depression and irritability in cancer patients: A network analysis.
-- Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates, and long-term outcomes: A prospective case-cohort study combined with experience sampling method. 
 
 <br>
 <br>
@@ -176,49 +148,30 @@ In my **future doctoral research**, I plan to acquire multifaceted skills in phy
 *Note. \* indicates the correspondent author*
 
 ## 1️⃣ First Author
-
-1. **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F.\* (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory-9 in Chinese adolescents and adults. *Psychological Assessment*. [[doi]](https://doi.org/10.1037/pas0001309)
-
-2. **Zhan, N.**, Zhang, L., Gong, M., & Geng, F.\* (2023). Clinical correlates of irritability, anger, hostility, and aggression in posttraumatic stress disorder. *Psychological Trauma: Theory, Research, Practice, and Policy*, Advance online publication. [[doi]](https://doi.org/dx.10.1037/tra0001498)
-
-3. **Zhan, N.**, Zhang, Y., Xie, D., & Geng, F.\* (2022). The associations of parental COVID-19-related worries, lifestyles, and insomnia with child insomnia during the COVID-19 outbreak. *Journal of Sleep Research*, e13590. [[doi]](https://doi.org/10.1111/jsr.13590)
-
-4. **Zhan, N.**, Xie, D., Zou, J., Wang, J., & Geng, F.\* (2021). The validity and reliability of benevolent childhood experiences scale in Chinese community adults. *European Journal of Psychotraumatology*, *12*(1), 1945747. [[doi]](https://doi.org/10.1080/20008198.2021.1945747)
-<br>
+1. **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F. (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory (PTCI) and its brief version (PTCI-9) in Chinese adolescents and adults. *Psychological Assessment, 36*(4), 291-302. [https://doi.org/10.1037/pas0001309](https://doi.org/10.1037/pas0001309)
+2. **Zhan, N.**, Zhang, L., Gong, M., & Geng, F. (2024). Clinical correlates of irritability, anger, hostility, and aggression in posttraumatic stress disorder. *Psychological Trauma: Theory, Research, Practice, and Policy, 16*(6), 1055-1062. [https://doi.org/10.1037/tra0001498](https://doi.org/10.1037/tra0001498)
+3. **Zhan, N.**, Zhang, Y., Xie, D., & Geng, F. (2022). The associations of parental COVID-19 related worries, lifestyles, and insomnia with child insomnia during the COVID-19 outbreak. *Journal of Sleep Research, 31*(5), e13590. [https://doi.org/10.1111/jsr.13590](https://doi.org/10.1111/jsr.13590)
+4. **Zhan, N.**, Xie, D., Zou, J., Wang, J., & Geng, F. (2021). The validity and reliability of benevolent childhood experiences scale in Chinese community adults. *European Journal of Psychotraumatology, 12*(1), 1945747. [https://doi.org/10.1080/20008198.2021.1945747](https://doi.org/10.1080/20008198.2021.1945747)
 
 ## 2️⃣ Co-Author
-
-1. Yuan, D., Li, Q., **Zhan, N.**, Zhang, L., Wang, J., Liu, M., & Geng, F.\* (2023). Longitudinal associations of menstrual characteristics with mental health problems among Chinese girls. *European Child & Adolescent Psychiatry*. [[doi]](https://doi.org/10.1007/s00787-023-02345-y)
-
-2. Fung, H. W.\*, Geng, F., Yuan, D., **Zhan, N.**, & Lee, V. W. P. (2023). Childhood experiences and dissociation among high school students in China: Theoretical reexamination and clinical implications. *The International Journal of Social Psychiatry*, 207640231181528. Advance online publication. [[doi]](https://doi.org/10.1177/00207640231181528)
-
-3. Geng, F.\*, Liang, Y., **Zhan, N.**, & Wang, J. (2022). Prevalence, clinical features, and psychological characteristics of dissociative subtype of posttraumatic stress disorder in Chinese prisoners. *Journal of Trauma & Dissociation*, *24*(1), 63–78. [[doi]](https://doi.org/10.1080/15299732.2022.2079797)
-
-4. Zhang, Y., **Zhan, N.**, Long, M., Xie, D., & Geng, F.\* (2022). Associations of childhood neglect, difficulties in emotion regulation, and psychological distresses to COVID-19 pandemic: An intergenerational analysis. *Child Abuse & Neglect*, *129*, 105674. [[doi]](https://doi.org/10.1016/j.chiabu.2022.105674)
-
-5. Geng, F.\*, Lu, H., Zhang, Y., **Zhan, N.**, Zhang, L., & Liu, M. (2022). Dissociative depression and its related clinical and psychological characteristics among Chinese prisoners: A latent class analysis. *Current Psychology*, *42*(15061 - 15069). [[doi]](https://doi.org/10.1007/s12144-022-02751-6)
-
-6. Zhang, Y., **Zhan, N.**, Zou, J., Xie, D., Liu, M., & Geng, F.\* (2022). The transmission of psychological distress and lifestyles from parents to children during COVID-19. *Journal of Affective Disorders*, *303*, 74-81. [[doi]](https://doi.org/10.1016/j.jad.2022.02.007)
-
-7. Zhang, Y., Li, Q., Hu, W., **Zhan, N.**, Zou, J., Wang, J., & Geng, F.\* (2022). The relationships between screen time and mental health problems among Chinese adults. *Journal of Psychiatric Research*, *146*, 279-285. [[doi]](https://doi.org/10.1016/j.jpsychires.2021.11.017)
-
-8. Geng, F.\*, Tu, L., **Zhan, N.**, Zhang, Y., & Wang, J. (2021). Associations of substance abuse histories and gambling addiction history with post-traumatic stress symptoms and depressive symptoms among Chinese prisoners. *European Journal of Psychotraumatology*, *12*(1), 1906022. [[doi]](https://doi.org/10.1080/20008198.2021.1906022)
-
-9. Geng, F.\*, Zou, J., Liang, Y., **Zhan, N.**, Li, S., & Wang, J. (2021). Associations of positive and adverse childhood experiences and adulthood insomnia in a community sample of Chinese adults. *Sleep Medicine*, *80*, 46-51. [[doi]](https://doi.org/10.1016/j.sleep.2021.01.022)
-<br>
+1. Yuan, D., Li, Q., **Zhan, N.**, Zhang, L., Wang, J., Liu, M., & Geng, F. (2023). Longitudinal associations of menstrual characteristics with mental health problems among Chinese girls. *European Child & Adolescent Psychiatry, 33*(8), 2547-2556. [https://doi.org/10.1007/s00787-023-02345-y](https://doi.org/10.1007/s00787-023-02345-y)
+2. Fung, H. W., Geng, F., Yuan, D., **Zhan, N.**, & Lee, V. W. P. (2023). Childhood experiences and dissociation among high school students in China: Theoretical reexamination and clinical implications. *International Journal of Social Psychiatry, 69*(8), 1949-1957. [https://doi.org/10.1177/00207640231181528](https://doi.org/10.1177/00207640231181528)
+3. Geng, F., Liang, Y., **Zhan, N.**, & Wang, J. (2022). Prevalence, clinical features, and psychological characteristics of dissociative subtype of posttraumatic stress disorder in Chinese prisoners. *Journal of Trauma & Dissociation, 24*(1), 63-78. [https://doi.org/10.1080/15299732.2022.2079797](https://doi.org/10.1080/15299732.2022.2079797)
+4. Zhang, Y., **Zhan, N.**, Long, M., Xie, D., & Geng, F. (2022). Associations of childhood neglect, difficulties in emotion regulation, and psychological distresses to COVID-19 pandemic: An intergenerational analysis. *Child Abuse & Neglect, 129*, 105674. [https://doi.org/10.1016/j.chiabu.2022.105674](https://doi.org/10.1016/j.chiabu.2022.105674)
+5. Geng, F., Lu, H., Zhang, Y., **Zhan, N.**, Zhang, L., & Liu, M. (2022). Dissociative depression and its related clinical and psychological characteristics among Chinese prisoners: A latent class analysis. *Current Psychology, 42*, 15070–15079. [https://doi.org/10.1007/s12144-022-02751-6](https://doi.org/10.1007/s12144-022-02751-6)
+6. Zhang, Y., **Zhan, N.**, Zou, J., Xie, D., Liu, M., & Geng, F. (2022). The transmission of psychological distress and lifestyles from parents to children during COVID-19. *Journal of Affective Disorders, 303*, 74-81. [https://doi.org/10.1016/j.jad.2022.02.007](https://doi.org/10.1016/j.jad.2022.02.007)
+7. Zhang, Y., Li, Q., Hu, W., **Zhan, N.**, Zou, J., Wang, J., & Geng, F. (2022). The relationships between screen time and mental health problems among Chinese adults. *Journal of Psychiatric Research, 146*, 279-285. [https://doi.org/10.1016/j.jpsychires.2021.11.017](https://doi.org/10.1016/j.jpsychires.2021.11.017)
+8. Geng, F., Tu, L., **Zhan, N.**, Zhang, Y., & Wang, J. (2021). Associations of substance abuse histories and gambling addiction history with post-traumatic stress symptoms and depressive symptoms among Chinese prisoners. *European Journal of Psychotraumatology, 12*(1), 1906022. [https://doi.org/10.1080/20008198.2021.1906022](https://doi.org/10.1080/20008198.2021.1906022)
+9. Geng, F., Zou, J., Liang, Y., **Zhan, N.**, Li, S., & Wang, J. (2021). Associations of positive and adverse childhood experiences and adulthood insomnia in a community sample of Chinese adults. *Sleep Medicine, 80*, 46-51. [https://doi.org/10.1016/j.sleep.2021.01.022](https://doi.org/10.1016/j.sleep.2021.01.022)
 
 ## 3️⃣ Working Papers
-
-1. **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F.\* (submitted). A symptom level perspective on irritability, PTSD, and depression in children and adults.
-
-2. Zhang, K., **Zhan, N.**, Xue, X., Man, J., Li, F., & Geng, F.\* (submitted). Associations among fear of cancer recurrence, posttraumatic stress symptoms, depression and irritability in cancer patients: A network analysis.
-
-3. Geng, F.\*, **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (submitted). Examination of irritability trajectories, correlates, and long-term outcomes: A prospective case-cohort study combined with the experience sampling method. 
-<br>
+1. **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F. (under review). A symptom-level perspective on irritability, PTSD, and depression in children and adults.
+2. Zhang, K., **Zhan, N.**, Xue, X., Man, J., Li, F., & Geng, F. (under review). Associations among fear of cancer recurrence, posttraumatic stress symptoms, depression and irritability in cancer patients: A network analysis.
+3. Geng, F., **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (under review). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method.
 
 ## 4️⃣ Conference Presentations
+1. **Zhan, N.**, & Geng, F. (2024, September). *Longitudinal Relationships Between Posttraumatic Stress Disorder, Irritability, Depression in Trauma-Exposed Children and Adolescents: A Cross-Lagged Panel Network Analysis.* Poster accepted for presentation at the 40th annual meeting of the International Society for Traumatic Stress Studies conference, Boston, MA.
 
-1. **Zhan, N.**, & Geng, F.\* (2024, September). *Longitudinal Relationships Between Posttraumatic Stress Disorder, Irritability, Depression in Trauma-Exposed Children and Adolescents: A Cross-Lagged Panel Network Analysis*. Poster accepted for presentation at the 40th annual meeting of the International Society for Traumatic Stress Studies conference in Boston, MA.
 
 <br>
 <br>
