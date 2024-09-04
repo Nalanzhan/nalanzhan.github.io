@@ -174,7 +174,7 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 - *2020* - Second Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
 
 <br>
-<be>
+<br>
 
 # 💻 Professional Experiences
 
