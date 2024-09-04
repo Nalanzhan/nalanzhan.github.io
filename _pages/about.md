@@ -165,7 +165,7 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 <br>
 
 # 🏅 Honors and Awards
-- *2024* - International Student Travel Stipend for the 2024 APA Convention, APA Division 56
+- *2024* - International Student Travel Stipend, 2024 APA Convention, APA Division 56
 - *2023/2024* - First Prize Scholarship of Outstanding Graduates, Jiangxi Province Government
 - *2023* - National Scholarship, Ministry of Education of China
 - *2022* - Outstanding Undergraduate Thesis, Jiangxi Normal University
