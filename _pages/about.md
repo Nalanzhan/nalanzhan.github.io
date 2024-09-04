@@ -38,7 +38,7 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 <br>
 <br>
 
-# 📑 Research Projects and Publications
+# 📑 Research Projects
 
 ## 1️⃣ Pathological Mechanisms of PTSD
 *Description:* This project aims to investigate the pathological mechanisms of the onset, development, and progression of posttraumatic stress disorder (PTSD), involving susceptibility, cognitive biases, fear memory, and stress hormones.
