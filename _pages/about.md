@@ -198,3 +198,8 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 - *3/2021* - Psychology Teacher Practicum, Maqiu Senior High School, Nanchang, Jiangxi
 - *9/2018-6/2021* - New media operation center for college students, School of Psychology, Jiangxi Normal University
 - *2019/2020* - Summer Social Practice, Yangguang Middle School, Nanchang, Jiangxi
+
+
+<br>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=9e9b9b&w=300&t=tt&d=LTDeMoX3IbRyjBnBxj_s_oanRxOCeMMXpgJDwOjauVY&co=ffffff&ct=000000&cmo=3acc3a&cmn=ff5353'></script>
