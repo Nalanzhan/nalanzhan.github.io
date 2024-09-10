@@ -142,7 +142,7 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 5. **Zhan, N.**, Xie, D., Zou, J., Wang, J., & Geng, F. (2021). The validity and reliability of benevolent childhood experiences scale in Chinese community adults. *European Journal of Psychotraumatology, 12*(1), 1945747. [https://doi.org/10.1080/20008198.2021.1945747](https://doi.org/10.1080/20008198.2021.1945747)
 
 ## 2️⃣ Co-Author
-1.- Yuan, D., **Zhan, N.**, Wang, J., Geng, F., & Zhang, L. (2024). Prevalence and correlates for adult attention deficit hyperactivity disorder and its subtypes in a Chinese community-based sample. *Current Psychology*, 1-9. [https://doi.org/10.1007/s12144-024-06599-w](https://doi.org/10.1007/s12144-024-06599-w)
+1. Yuan, D., **Zhan, N.**, Wang, J., Geng, F., & Zhang, L. (2024). Prevalence and correlates for adult attention deficit hyperactivity disorder and its subtypes in a Chinese community-based sample. *Current Psychology*, 1-9. [https://doi.org/10.1007/s12144-024-06599-w](https://doi.org/10.1007/s12144-024-06599-w)
 2. Yuan, D., Li, Q., **Zhan, N.**, Zhang, L., Wang, J., Liu, M., & Geng, F. (2023). Longitudinal associations of menstrual characteristics with mental health problems among Chinese girls. *European Child & Adolescent Psychiatry, 33*(8), 2547-2556. [https://doi.org/10.1007/s00787-023-02345-y](https://doi.org/10.1007/s00787-023-02345-y)
 3. Fung, H. W., Geng, F., Yuan, D., **Zhan, N.**, & Lee, V. W. P. (2023). Childhood experiences and dissociation among high school students in China: Theoretical reexamination and clinical implications. *International Journal of Social Psychiatry, 69*(8), 1949-1957. [https://doi.org/10.1177/00207640231181528](https://doi.org/10.1177/00207640231181528)
 4. Geng, F., Liang, Y., **Zhan, N.**, & Wang, J. (2022). Prevalence, clinical features, and psychological characteristics of dissociative subtype of posttraumatic stress disorder in Chinese prisoners. *Journal of Trauma & Dissociation, 24*(1), 63-78. [https://doi.org/10.1080/15299732.2022.2079797](https://doi.org/10.1080/15299732.2022.2079797)
@@ -182,15 +182,11 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 
 - *3/2024* - The 40th Annual Meeting of the International Society for Traumatic Stress Studies conference
 
-<br>
-
 ## 2️⃣ Memberships
 
 - *2023-2026* - Student member of the International Society of Traumatic Stress Studies
 - *2023-2025* - Student member of the American Psychological Association
 - *2023-2024* - Student member of the Chinese Psychological Society
-
-<br>
 
 ## 3️⃣ Other Work Experiences
 
