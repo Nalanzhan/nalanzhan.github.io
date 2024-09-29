@@ -19,7 +19,7 @@ redirect_from:
 
 # 😺 About Me
 
-I am currently a second-year master’s student in the School of Psychology at Jiangxi Normal University, having commenced my studies in September 2022 and anticipating graduation in June 2025. Prior to my master’s program, I completed my Bachelor of Science degree in Psychology at the same institution, from September 2018 to June 2022. 
+I am currently a second-year master’s student in the School of Psychology at Jiangxi Normal University, having commenced my studies in September 2022 and anticipating graduation in June 2025. Before my master’s program, I completed my Bachelor of Science degree in Psychology at the same institution, from September 2018 to June 2022. 
 
 My academic journey has been profoundly shaped by Dr. [Fulei Geng](https://www.researchgate.net/profile/Fulei-Geng), who has been my steadfast research supervisor since September 2019, when I first joined his laboratory, and continues to guide me to this day. His mentorship has been pivotal throughout my academic journey, including the guidance he provided for both my undergraduate thesis and my current master’s dissertation.
 
@@ -75,7 +75,7 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ONGOING</div><img src='images/project-zhan2024network.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A Symptom Level Perspective on Irritability, PTSD, and Depression** \\
+**[A Symptom-Level Perspective on Irritability, PTSD, and Depression](https://www.sciencedirect.com/science/article/abs/pii/S0165032724014460)** \\
 **Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)
 -	Used separate and well-validated scales to measure irritability, anger, hostility, and aggression in a community sample of adults with probable PTSD.
 -	Conducted exploratory graph analysis and network analysis to examine cross-sectional relationships between symptoms of irritability, PTSD, and depression.
@@ -135,7 +135,7 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 # 📝 Publications 
 
 ## 1️⃣ First Author
-1. **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F. (In Press). A symptom-level perspective on irritability, PTSD, and depression in children and adults. *Journal of Affective Disorders*.
+1. **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F. (2024). A symptom-level perspective on irritability, PTSD, and depression in children and adults. *Journal of Affective Disorders*.
 2. **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F. (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory (PTCI) and its brief version (PTCI-9) in Chinese adolescents and adults. *Psychological Assessment, 36*(4), 291-302. [https://doi.org/10.1037/pas0001309](https://doi.org/10.1037/pas0001309)
 3. **Zhan, N.**, Zhang, L., Gong, M., & Geng, F. (2024). Clinical correlates of irritability, anger, hostility, and aggression in posttraumatic stress disorder. *Psychological Trauma: Theory, Research, Practice, and Policy, 16*(6), 1055-1062. [https://doi.org/10.1037/tra0001498](https://doi.org/10.1037/tra0001498)
 4. **Zhan, N.**, Zhang, Y., Xie, D., & Geng, F. (2022). The associations of parental COVID-19 related worries, lifestyles, and insomnia with child insomnia during the COVID-19 outbreak. *Journal of Sleep Research, 31*(5), e13590. [https://doi.org/10.1111/jsr.13590](https://doi.org/10.1111/jsr.13590)
@@ -166,8 +166,8 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 
 # 🏅 Honors and Awards
 - *2024* - International Student Travel Stipend, 2024 APA Convention, APA Division 56
+- *2023/2024* - National Scholarship, Ministry of Education of China
 - *2023/2024* - First Prize Scholarship of Outstanding Graduates, Jiangxi Province Government
-- *2023* - National Scholarship, Ministry of Education of China
 - *2022* - Outstanding Undergraduate Thesis, Jiangxi Normal University
 - *2022* - Outstanding Undergraduates, Jiangxi Normal University
 - *2019/2021/2022* - First Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
@@ -184,9 +184,9 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 
 ## 2️⃣ Memberships
 
-- *2023-2026* - Student member of the International Society of Traumatic Stress Studies
-- *2023-2025* - Student member of the American Psychological Association
-- *2023-2024* - Student member of the Chinese Psychological Society
+- *2023-2026* - International Society of Traumatic Stress Studies
+- *2023-2025* - American Psychological Association
+- *2023-2024* - Chinese Psychological Society
 
 ## 3️⃣ Other Work Experiences
 
