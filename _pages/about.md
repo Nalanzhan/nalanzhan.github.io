@@ -135,7 +135,7 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 # 📝 Publications 
 
 ## 1️⃣ First Author
-1. **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F. (2024). A symptom-level perspective on irritability, PTSD, and depression in children and adults. *Journal of Affective Disorders*.
+1. **Zhan, N.**, Li, F., Fung, H. W., Zhang, K., Wang, J., & Geng, F. (2024). A symptom-level perspective on irritability, PTSD, and depression in children and adults. *Journal of Affective Disorders*, *367*, 606-616. [https://10.1016/j.jad.2024.08.213](https://10.1016/j.jad.2024.08.213)
 2. **Zhan, N.**, Gao, C., Cao, Y., Li, F., & Geng, F. (2024). Factor structure, measurement invariance, and psychometric properties of the Posttraumatic Cognitions Inventory (PTCI) and its brief version (PTCI-9) in Chinese adolescents and adults. *Psychological Assessment, 36*(4), 291-302. [https://doi.org/10.1037/pas0001309](https://doi.org/10.1037/pas0001309)
 3. **Zhan, N.**, Zhang, L., Gong, M., & Geng, F. (2024). Clinical correlates of irritability, anger, hostility, and aggression in posttraumatic stress disorder. *Psychological Trauma: Theory, Research, Practice, and Policy, 16*(6), 1055-1062. [https://doi.org/10.1037/tra0001498](https://doi.org/10.1037/tra0001498)
 4. **Zhan, N.**, Zhang, Y., Xie, D., & Geng, F. (2022). The associations of parental COVID-19 related worries, lifestyles, and insomnia with child insomnia during the COVID-19 outbreak. *Journal of Sleep Research, 31*(5), e13590. [https://doi.org/10.1111/jsr.13590](https://doi.org/10.1111/jsr.13590)
@@ -166,10 +166,11 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 
 # 🏅 Honors and Awards
 - *2024* - International Student Travel Stipend, 2024 APA Convention, APA Division 56
-- *2023/2024* - National Scholarship, Ministry of Education of China
-- *2023/2024* - First Prize Scholarship of Outstanding Graduates, Jiangxi Province Government
+- *2023/2024* - National Scholarship of Postgraduates, Ministry of Education of China
+- *2023/2024* - First Prize Scholarship of Outstanding Postgraduates, Jiangxi Province Government
 - *2022* - Outstanding Undergraduate Thesis, Jiangxi Normal University
 - *2022* - Outstanding Undergraduates, Jiangxi Normal University
+- *2020* - National Encouragement Scholarship of Undergraduates,  Ministry of Education of China
 - *2019/2021/2022* - First Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
 - *2020* - Second Prize Scholarship of Outstanding Undergraduates, Jiangxi Normal University
 
