@@ -19,7 +19,7 @@ redirect_from:
 
 # 😺 About Me
 
-I am currently a second-year master’s student in the School of Psychology at Jiangxi Normal University, having commenced my studies in September 2022 and anticipating graduation in June 2025. Before my master’s program, I completed my Bachelor of Science degree in Psychology at the same institution, from September 2018 to June 2022. 
+I am currently a third-year master’s student in the School of Psychology at Jiangxi Normal University, having commenced my studies in September 2022 and anticipating graduation in June 2025. Before my master’s program, I completed my Bachelor of Science degree in Psychology at the same institution, from September 2018 to June 2022. 
 
 My academic journey has been profoundly shaped by Dr. [Fulei Geng](https://www.researchgate.net/profile/Fulei-Geng), who has been my steadfast research supervisor since September 2019, when I first joined his laboratory, and continues to guide me to this day. His mentorship has been pivotal throughout my academic journey, including the guidance he provided for both my undergraduate thesis and my current master’s dissertation.
 
@@ -33,7 +33,7 @@ I am currently seeking a doctoral position in the field of clinical science and/
 - Effective interventions to mitigate the negative impacts of trauma and adversity.
 {% endcomment %}
 
-In my **future doctoral research**, I want to acquire multifaceted skills in physiology, behavior, and imaging to explore the etiology and pathology of stress-related disorders comprehensively in adolescents and adults. 
+In my **future doctoral research**, I want to acquire multifaceted skills in physiology, behavior, and neuroimaging to explore the etiology and pathology of psychopathology following adverse and traumatic events, such as PTSD, anxiety, depression and so on, comprehensively in adolescents and adults. 
 
 <br>
 <br>
