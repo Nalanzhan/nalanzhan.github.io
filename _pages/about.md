@@ -153,13 +153,6 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 9. Geng, F., Tu, L., **Zhan, N.**, Zhang, Y., & Wang, J. (2021). Associations of substance abuse histories and gambling addiction history with post-traumatic stress symptoms and depressive symptoms among Chinese prisoners. *European Journal of Psychotraumatology, 12*(1), 1906022. [https://doi.org/10.1080/20008198.2021.1906022](https://doi.org/10.1080/20008198.2021.1906022)
 10. Geng, F., Zou, J., Liang, Y., **Zhan, N.**, Li, S., & Wang, J. (2021). Associations of positive and adverse childhood experiences and adulthood insomnia in a community sample of Chinese adults. *Sleep Medicine, 80*, 46-51. [https://doi.org/10.1016/j.sleep.2021.01.022](https://doi.org/10.1016/j.sleep.2021.01.022)
 
-## 3️⃣ Manuscripts Under Reviews
-1. Zhang, K., **Zhan, N.**, Xue, X., Man, J., Li, F., & Geng, F. (under review). Associations among fear of cancer recurrence, posttraumatic stress symptoms, depression and irritability in cancer patients: A network analysis.
-2. Geng, F., **Zhan, N.**, Li, F., Xu, F., Li, Y., & Wang, J. (under review). Examination of irritability trajectories, correlates and long-term outcomes: A prospective case-cohort study combined with experience sampling method.
-
-## 4️⃣ Manuscripts In Progress
-1. **Zhan, N.**, & Geng, F. (In Preparation). Longitudinal Relationships Between Posttraumatic Stress Disorder, Irritability, Depression in Trauma-Exposed Children and Adolescents: A Cross-Lagged Panel Network Analysis.
-
 
 <br>
 <br>
