@@ -43,19 +43,6 @@ In my **future doctoral research**, I want to acquire multifaceted skills in phy
 ## 1️⃣ Pathological Mechanisms of PTSD
 *Description:* This project aims to investigate the pathological mechanisms of the onset, development, and progression of posttraumatic stress disorder (PTSD), involving susceptibility, cognitive biases, fear memory, and stress hormones.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ONGOING</div><img src='images/project-zhan2024ptsd.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Associations between Default Mode Network Functional Connectivity and Conditioning Fear Extinction in PTSD: A Resting-state Functional MRI Study** \\
-**Advisor:** [Fulei Geng, Ph.D.](https://www.researchgate.net/profile/Fulei-Geng)\\
-**Collaborators**: Kailiang Zhang and Dawei Wang (Qilu Hospital, Shandong University)
--	Designed the study, developed experimental protocols using E-prime, and plan to collect behavioral (self-report), physiological (EDA), and imaging (sMRI and rs-fMRI) data using a laptop, BIOPAC MP160 System, and MRI scanner.
--	Plan to conduct data preprocessing and analysis: preprocessing EDA data with Acqknowledge and imaging data with MATLAB; analyzing behavioral, physiological, and imaging data using R, SPSS, and Excel together; and preparing final results for reporting and manuscript writing.
--	Current progress: Preparing IRB resubmissions.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 PsycholAssess</div><img src='images/project-zhan2024factor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
